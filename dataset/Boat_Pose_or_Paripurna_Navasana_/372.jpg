@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchBucket</Code><Message>The specified bucket does not exist</Message><BucketName>yogaworksblog-s3</BucketName><RequestId>6B3R6K6ZR8B8JBEC</RequestId><HostId>Mr7dI9umphqiPKG0rv7MNRgtxOPUPY9TVKfCyCRFG2vWRkHZNb61PfV9iUo/zMNI+GC0IT4aew8=</HostId></Error>

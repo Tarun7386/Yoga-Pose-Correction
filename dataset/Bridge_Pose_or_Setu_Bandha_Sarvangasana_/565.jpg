@@ -1,0 +1,876 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: https://ogp.me/ns#">
+<head>
+	<meta charset="UTF-8">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+		<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Search Engine Optimization by Rank Math - https://rankmath.com/ -->
+<title>Page not found - Yoga Divinity</title>
+<meta name="robots" content="follow, noindex"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Page not found - Yoga Divinity" />
+<meta property="og:site_name" content="YogaDivinity" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Page not found - Yoga Divinity" />
+<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://www.yogadivinity.com/#person","name":"YogaDivinity","image":{"@type":"ImageObject","@id":"https://www.yogadivinity.com/#logo","url":"https://www.yogadivinity.com/wp-content/uploads/2022/04/cropped-Yoga-Divinity-Official-Logo-scaled-1.jpg","contentUrl":"https://www.yogadivinity.com/wp-content/uploads/2022/04/cropped-Yoga-Divinity-Official-Logo-scaled-1.jpg","caption":"YogaDivinity","inLanguage":"en-US","width":"1600","height":"319"}},{"@type":"WebSite","@id":"https://www.yogadivinity.com/#website","url":"https://www.yogadivinity.com","name":"YogaDivinity","publisher":{"@id":"https://www.yogadivinity.com/#person"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://www.yogadivinity.com","name":"Home"}}]},{"@type":"WebPage","@id":"#webpage","url":"","name":"Page not found - Yoga Divinity","isPartOf":{"@id":"https://www.yogadivinity.com/#website"},"inLanguage":"en-US","breadcrumb":{"@id":"#breadcrumb"}}]}</script>
+<!-- /Rank Math WordPress SEO plugin -->
+
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Yoga Divinity &raquo; Feed" href="https://www.yogadivinity.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Yoga Divinity &raquo; Comments Feed" href="https://www.yogadivinity.com/comments/feed/" />
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v9.1.1 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+							<script src="//www.googletagmanager.com/gtag/js?id=G-PSFNWT3V6Y"  data-cfasync="false" data-wpfc-render="false" async></script>
+			<script data-cfasync="false" data-wpfc-render="false">
+				var mi_version = '9.1.1';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+								var MonsterInsightsDefaultLocations = {"page_location":"https:\/\/www.yogadivinity.com\/wp-content\/uploads\/2015\/10\/hp_278_04_FNL.jpg\/"};
+				if ( typeof MonsterInsightsPrivacyGuardFilter === 'function' ) {
+					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsPrivacyGuardFilter( MonsterInsightsExcludeQuery ) : MonsterInsightsPrivacyGuardFilter( MonsterInsightsDefaultLocations );
+				} else {
+					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsExcludeQuery : MonsterInsightsDefaultLocations;
+				}
+
+								var disableStrs = [
+										'ga-disable-G-PSFNWT3V6Y',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if (__gtagTrackerIsOptedOut()) {
+					for (var index = 0; index < disableStrs.length; index++) {
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				if ('undefined' === typeof gaOptout) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.MonsterInsightsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if (mi_track_user) {
+					function __gtagDataLayer() {
+						dataLayer.push(arguments);
+					}
+
+					function __gtagTracker(type, name, parameters) {
+						if (!parameters) {
+							parameters = {};
+						}
+
+						if (parameters.send_to) {
+							__gtagDataLayer.apply(null, arguments);
+							return;
+						}
+
+						if (type === 'event') {
+														parameters.send_to = monsterinsights_frontend.v4_id;
+							var hookName = name;
+							if (typeof parameters['event_category'] !== 'undefined') {
+								hookName = parameters['event_category'] + ':' + name;
+							}
+
+							if (typeof MonsterInsightsDualTracker.trackers[hookName] !== 'undefined') {
+								MonsterInsightsDualTracker.trackers[hookName](parameters);
+							} else {
+								__gtagDataLayer('event', name, parameters);
+							}
+							
+						} else {
+							__gtagDataLayer.apply(null, arguments);
+						}
+					}
+
+					__gtagTracker('js', new Date());
+					__gtagTracker('set', {
+						'developer_id.dZGIzZG': true,
+											});
+					if ( MonsterInsightsLocations.page_location ) {
+						__gtagTracker('set', MonsterInsightsLocations);
+					}
+										__gtagTracker('config', 'G-PSFNWT3V6Y', {"forceSSL":"true","link_attribution":"true","page_path":'\/404.html?page=' + document.location.pathname + document.location.search + '&from=' + document.referrer} );
+															window.gtag = __gtagTracker;										(function () {
+						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+						/* ga and __gaTracker compatibility shim. */
+						var noopfn = function () {
+							return null;
+						};
+						var newtracker = function () {
+							return new Tracker();
+						};
+						var Tracker = function () {
+							return null;
+						};
+						var p = Tracker.prototype;
+						p.get = noopfn;
+						p.set = noopfn;
+						p.send = function () {
+							var args = Array.prototype.slice.call(arguments);
+							args.unshift('send');
+							__gaTracker.apply(null, args);
+						};
+						var __gaTracker = function () {
+							var len = arguments.length;
+							if (len === 0) {
+								return;
+							}
+							var f = arguments[len - 1];
+							if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
+								if ('send' === arguments[0]) {
+									var hitConverted, hitObject = false, action;
+									if ('event' === arguments[1]) {
+										if ('undefined' !== typeof arguments[3]) {
+											hitObject = {
+												'eventAction': arguments[3],
+												'eventCategory': arguments[2],
+												'eventLabel': arguments[4],
+												'value': arguments[5] ? arguments[5] : 1,
+											}
+										}
+									}
+									if ('pageview' === arguments[1]) {
+										if ('undefined' !== typeof arguments[2]) {
+											hitObject = {
+												'eventAction': 'page_view',
+												'page_path': arguments[2],
+											}
+										}
+									}
+									if (typeof arguments[2] === 'object') {
+										hitObject = arguments[2];
+									}
+									if (typeof arguments[5] === 'object') {
+										Object.assign(hitObject, arguments[5]);
+									}
+									if ('undefined' !== typeof arguments[1].hitType) {
+										hitObject = arguments[1];
+										if ('pageview' === hitObject.hitType) {
+											hitObject.eventAction = 'page_view';
+										}
+									}
+									if (hitObject) {
+										action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+										hitConverted = mapArgs(hitObject);
+										__gtagTracker('event', action, hitConverted);
+									}
+								}
+								return;
+							}
+
+							function mapArgs(args) {
+								var arg, hit = {};
+								var gaMap = {
+									'eventCategory': 'event_category',
+									'eventAction': 'event_action',
+									'eventLabel': 'event_label',
+									'eventValue': 'event_value',
+									'nonInteraction': 'non_interaction',
+									'timingCategory': 'event_category',
+									'timingVar': 'name',
+									'timingValue': 'value',
+									'timingLabel': 'event_label',
+									'page': 'page_path',
+									'location': 'page_location',
+									'title': 'page_title',
+									'referrer' : 'page_referrer',
+								};
+								for (arg in args) {
+																		if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
+										hit[gaMap[arg]] = args[arg];
+									} else {
+										hit[arg] = args[arg];
+									}
+								}
+								return hit;
+							}
+
+							try {
+								f.hitCallback();
+							} catch (ex) {
+							}
+						};
+						__gaTracker.create = newtracker;
+						__gaTracker.getByName = newtracker;
+						__gaTracker.getAll = function () {
+							return [];
+						};
+						__gaTracker.remove = noopfn;
+						__gaTracker.loaded = true;
+						window['__gaTracker'] = __gaTracker;
+					})();
+									} else {
+										console.log("");
+					(function () {
+						function __gtagTracker() {
+							return null;
+						}
+
+						window['__gtagTracker'] = __gtagTracker;
+						window['gtag'] = __gtagTracker;
+					})();
+									}
+			</script>
+				<!-- / Google Analytics by MonsterInsights -->
+		<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.yogadivinity.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.7.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.yogadivinity.com/wp-includes/css/dist/block-library/style.min.css?ver=6.7.2' media='all' />
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--contrast: var(--contrast);--wp--preset--color--contrast-2: var(--contrast-2);--wp--preset--color--contrast-3: var(--contrast-3);--wp--preset--color--base: var(--base);--wp--preset--color--base-2: var(--base-2);--wp--preset--color--base-3: var(--base-3);--wp--preset--color--accent: var(--accent);--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='wp-show-posts-css' href='https://www.yogadivinity.com/wp-content/plugins/wp-show-posts/css/wp-show-posts-min.css?ver=1.1.6' media='all' />
+<link rel='stylesheet' id='generate-style-css' href='https://www.yogadivinity.com/wp-content/themes/generatepress/assets/css/main.min.css?ver=3.1.3' media='all' />
+<style id='generate-style-inline-css'>
+#nav-below {display:none;}
+.generate-columns {margin-bottom: 30px;padding-left: 30px;}.generate-columns-container {margin-left: -30px;}.page-header {margin-bottom: 30px;margin-left: 30px}.generate-columns-container > .paging-navigation {margin-left: 30px;}
+body{background-color:#fbfbfb;color:#3a3a3a;}a{color:#ff1956;}a:hover, a:focus, a:active{color:#000000;}.grid-container{max-width:1170px;}.wp-block-group__inner-container{max-width:1170px;margin-left:auto;margin-right:auto;}.site-header .header-image{width:350px;}.navigation-search{position:absolute;left:-99999px;pointer-events:none;visibility:hidden;z-index:20;width:100%;top:0;transition:opacity 100ms ease-in-out;opacity:0;}.navigation-search.nav-search-active{left:0;right:0;pointer-events:auto;visibility:visible;opacity:1;}.navigation-search input[type="search"]{outline:0;border:0;vertical-align:bottom;line-height:1;opacity:0.9;width:100%;z-index:20;border-radius:0;-webkit-appearance:none;height:60px;}.navigation-search input::-ms-clear{display:none;width:0;height:0;}.navigation-search input::-ms-reveal{display:none;width:0;height:0;}.navigation-search input::-webkit-search-decoration, .navigation-search input::-webkit-search-cancel-button, .navigation-search input::-webkit-search-results-button, .navigation-search input::-webkit-search-results-decoration{display:none;}.gen-sidebar-nav .navigation-search{top:auto;bottom:0;}:root{--contrast:#222222;--contrast-2:#575760;--contrast-3:#b2b2be;--base:#f0f0f0;--base-2:#f7f8f9;--base-3:#ffffff;--accent:#1e73be;}.has-contrast-color{color:#222222;}.has-contrast-background-color{background-color:#222222;}.has-contrast-2-color{color:#575760;}.has-contrast-2-background-color{background-color:#575760;}.has-contrast-3-color{color:#b2b2be;}.has-contrast-3-background-color{background-color:#b2b2be;}.has-base-color{color:#f0f0f0;}.has-base-background-color{background-color:#f0f0f0;}.has-base-2-color{color:#f7f8f9;}.has-base-2-background-color{background-color:#f7f8f9;}.has-base-3-color{color:#ffffff;}.has-base-3-background-color{background-color:#ffffff;}.has-accent-color{color:#1e73be;}.has-accent-background-color{background-color:#1e73be;}body, button, input, select, textarea{font-family:Lato, sans-serif;font-weight:300;font-size:17px;}body{line-height:1.6;}.main-title{text-transform:uppercase;font-size:29px;}.main-navigation a, .main-navigation .menu-toggle, .main-navigation .menu-bar-items{font-weight:300;text-transform:uppercase;font-size:16px;}.widget-title{font-family:Lato, sans-serif;font-weight:500;text-transform:uppercase;font-size:20px;}button:not(.menu-toggle),html input[type="button"],input[type="reset"],input[type="submit"],.button,.wp-block-button .wp-block-button__link{font-weight:500;text-transform:uppercase;font-size:14px;}h1{font-family:Playfair Display, serif;font-size:50px;}h2{font-family:Playfair Display, serif;font-size:30px;}h3{font-family:Playfair Display, serif;font-size:24px;}h4{font-weight:700;font-size:18px;}.top-bar{background-color:#000000;color:#ffffff;}.top-bar a{color:#ffffff;}.top-bar a:hover{color:#303030;}.site-header{background-color:rgba(255,255,255,0);color:#3a3a3a;}.site-header a{color:#3a3a3a;}.main-title a,.main-title a:hover{color:#222222;}.site-description{color:#757575;}.mobile-menu-control-wrapper .menu-toggle,.mobile-menu-control-wrapper .menu-toggle:hover,.mobile-menu-control-wrapper .menu-toggle:focus,.has-inline-mobile-toggle #site-navigation.toggled{background-color:rgba(0, 0, 0, 0.02);}.main-navigation,.main-navigation ul ul{background-color:rgba(255,255,255,0);}.main-navigation .main-nav ul li a, .main-navigation .menu-toggle, .main-navigation .menu-bar-items{color:#3a3a3a;}.main-navigation .main-nav ul li:not([class*="current-menu-"]):hover > a, .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus > a, .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"]) > a, .main-navigation .menu-bar-item:hover > a, .main-navigation .menu-bar-item.sfHover > a{color:#3a3a3a;background-color:rgba(255,84,129,0);}button.menu-toggle:hover,button.menu-toggle:focus{color:#3a3a3a;}.main-navigation .main-nav ul li[class*="current-menu-"] > a{color:#3a3a3a;background-color:rgba(63,63,63,0);}.navigation-search input[type="search"],.navigation-search input[type="search"]:active, .navigation-search input[type="search"]:focus, .main-navigation .main-nav ul li.search-item.active > a, .main-navigation .menu-bar-items .search-item.active > a{color:#3a3a3a;background-color:rgba(255,84,129,0);}.main-navigation ul ul{background-color:#3a3a3a;}.main-navigation .main-nav ul ul li a{color:#515151;}.main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover > a,.main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus > a, .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"]) > a{color:#7a8896;background-color:#4f4f4f;}.main-navigation .main-nav ul ul li[class*="current-menu-"] > a{color:#8f919e;background-color:#4f4f4f;}.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .one-container .container, .separate-containers .paging-navigation, .inside-page-header{background-color:#fbfbfb;}.entry-title a{color:#000000;}.entry-title a:hover{color:#000000;}.entry-meta{color:#595959;}.entry-meta a{color:#595959;}.entry-meta a:hover{color:#222222;}h2{color:#222222;}.sidebar .widget{background-color:#f4f6f7;}.sidebar .widget .widget-title{color:#3a3a3a;}.footer-widgets{color:#3a3a3a;background-color:rgba(0,0,0,0);}.footer-widgets a{color:#ff1956;}.footer-widgets a:hover{color:#222222;}.footer-widgets .widget-title{color:#ff1956;}.site-info{color:#ff1956;background-color:rgba(34,34,34,0);}.site-info a{color:#0a0a0a;}.site-info a:hover{color:#606060;}.footer-bar .widget_nav_menu .current-menu-item a{color:#606060;}input[type="text"],input[type="email"],input[type="url"],input[type="password"],input[type="search"],input[type="tel"],input[type="number"],textarea,select{color:#666666;background-color:#fafafa;border-color:#cccccc;}input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="search"]:focus,input[type="tel"]:focus,input[type="number"]:focus,textarea:focus,select:focus{color:#666666;background-color:#ffffff;border-color:#bfbfbf;}button,html input[type="button"],input[type="reset"],input[type="submit"],a.button,a.wp-block-button__link:not(.has-background){color:#ffffff;background-color:#ff1956;}button:hover,html input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,a.button:hover,button:focus,html input[type="button"]:focus,input[type="reset"]:focus,input[type="submit"]:focus,a.button:focus,a.wp-block-button__link:not(.has-background):active,a.wp-block-button__link:not(.has-background):focus,a.wp-block-button__link:not(.has-background):hover{color:#b5005a;background-color:#ffffff;}a.generate-back-to-top{background-color:rgba( 0,0,0,0.4 );color:#ffffff;}a.generate-back-to-top:hover,a.generate-back-to-top:focus{background-color:rgba( 0,0,0,0.6 );color:#ffffff;}@media (max-width: 768px){.main-navigation .menu-bar-item:hover > a, .main-navigation .menu-bar-item.sfHover > a{background:none;color:#3a3a3a;}}.inside-top-bar{padding:10px;}.inside-top-bar.grid-container{max-width:1190px;}.inside-header{padding:20px 10px 20px 10px;}.inside-header.grid-container{max-width:1190px;}.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .separate-containers .paging-navigation, .one-container .site-content, .inside-page-header{padding:0px 0px 60px 0px;}.site-main .wp-block-group__inner-container{padding:0px 0px 60px 0px;}.separate-containers .paging-navigation{padding-top:20px;padding-bottom:20px;}.entry-content .alignwide, body:not(.no-sidebar) .entry-content .alignfull{margin-left:-0px;width:calc(100% + 0px);max-width:calc(100% + 0px);}.one-container.right-sidebar .site-main,.one-container.both-right .site-main{margin-right:0px;}.one-container.left-sidebar .site-main,.one-container.both-left .site-main{margin-left:0px;}.one-container.both-sidebars .site-main{margin:0px;}.sidebar .widget, .page-header, .widget-area .main-navigation, .site-main > *{margin-bottom:30px;}.separate-containers .site-main{margin:30px;}.both-right .inside-left-sidebar,.both-left .inside-left-sidebar{margin-right:15px;}.both-right .inside-right-sidebar,.both-left .inside-right-sidebar{margin-left:15px;}.one-container.archive .post:not(:last-child), .one-container.blog .post:not(:last-child){padding-bottom:60px;}.separate-containers .featured-image{margin-top:30px;}.separate-containers .inside-right-sidebar, .separate-containers .inside-left-sidebar{margin-top:30px;margin-bottom:30px;}.main-navigation .main-nav ul li a,.menu-toggle,.main-navigation .menu-bar-item > a{line-height:50px;}.navigation-search input[type="search"]{height:50px;}.rtl .menu-item-has-children .dropdown-menu-toggle{padding-left:20px;}.rtl .main-navigation .main-nav ul li.menu-item-has-children > a{padding-right:20px;}.widget-area .widget{padding:15px;}.footer-widgets-container.grid-container{max-width:1250px;}.inside-site-info{padding:20px;}.inside-site-info.grid-container{max-width:1210px;}@media (max-width:768px){.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .separate-containers .paging-navigation, .one-container .site-content, .inside-page-header{padding:20px;}.site-main .wp-block-group__inner-container{padding:20px;}.inside-site-info{padding-right:10px;padding-left:10px;}.entry-content .alignwide, body:not(.no-sidebar) .entry-content .alignfull{margin-left:-20px;width:calc(100% + 40px);max-width:calc(100% + 40px);}.one-container .site-main .paging-navigation{margin-bottom:30px;}}/* End cached CSS */.is-right-sidebar{width:25%;}.is-left-sidebar{width:25%;}.site-content .content-area{width:75%;}@media (max-width: 768px){.main-navigation .menu-toggle,.sidebar-nav-mobile:not(#sticky-placeholder){display:block;}.main-navigation ul,.gen-sidebar-nav,.main-navigation:not(.slideout-navigation):not(.toggled) .main-nav > ul,.has-inline-mobile-toggle #site-navigation .inside-navigation > *:not(.navigation-search):not(.main-nav){display:none;}.nav-align-right .inside-navigation,.nav-align-center .inside-navigation{justify-content:space-between;}}
+.dynamic-author-image-rounded{border-radius:100%;}.dynamic-featured-image, .dynamic-author-image{vertical-align:middle;}.one-container.blog .dynamic-content-template:not(:last-child), .one-container.archive .dynamic-content-template:not(:last-child){padding-bottom:0px;}.dynamic-entry-excerpt > p:last-child{margin-bottom:0px;}
+</style>
+<link rel='stylesheet' id='generate-google-fonts-css' href='https://fonts.googleapis.com/css?family=Lato%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic%7CPlayfair+Display%3Aregular%2Citalic%2C700%2C700italic%2C900%2C900italic&#038;display=auto&#038;ver=3.1.3' media='all' />
+<style id='generateblocks-inline-css'>
+:root{--gb-container-width:1170px;}.gb-container .wp-block-image img{vertical-align:middle;}.gb-grid-wrapper .wp-block-image{margin-bottom:0;}.gb-highlight{background:none;}.gb-shape{line-height:0;}
+</style>
+<link rel='stylesheet' id='generate-blog-css' href='https://www.yogadivinity.com/wp-content/plugins/gp-premium/blog/functions/css/style.min.css?ver=2.2.2' media='all' />
+<link rel='stylesheet' id='generate-offside-css' href='https://www.yogadivinity.com/wp-content/plugins/gp-premium/menu-plus/functions/css/offside.min.css?ver=2.2.2' media='all' />
+<style id='generate-offside-inline-css'>
+.slideout-navigation.main-navigation{background-color:#fbfbfb;}.slideout-navigation.main-navigation .main-nav ul li a{color:#3a3a3a;}.slideout-navigation.main-navigation .main-nav ul li:not([class*="current-menu-"]):hover > a, .slideout-navigation.main-navigation .main-nav ul li:not([class*="current-menu-"]):focus > a, .slideout-navigation.main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"]) > a{color:#fbfbfb;background-color:#3a3a3c;}.slideout-navigation.main-navigation .main-nav ul li[class*="current-menu-"] > a{color:#fbfbfb;background-color:#3a3a3c;}.slideout-navigation, .slideout-navigation a{color:#3a3a3a;}.slideout-navigation button.slideout-exit{color:#3a3a3a;padding-left:20px;padding-right:20px;}.slide-opened nav.toggled .menu-toggle:before{display:none;}@media (max-width: 768px){.menu-bar-item.slideout-toggle{display:none;}}
+</style>
+<script src="https://www.yogadivinity.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=9.1.1" id="monsterinsights-frontend-script-js" async data-wp-strategy="async"></script>
+<script data-cfasync="false" data-wpfc-render="false" id='monsterinsights-frontend-script-js-extra'>var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/www.yogadivinity.com","hash_tracking":"false","v4_id":"G-PSFNWT3V6Y"};</script>
+
+<!-- Google tag (gtag.js) snippet added by Site Kit -->
+
+<!-- Google Analytics snippet added by Site Kit -->
+<script src="https://www.googletagmanager.com/gtag/js?id=G-PSFNWT3V6Y" id="google_gtagjs-js" async></script>
+<script id="google_gtagjs-js-after">
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("set","linker",{"domains":["www.yogadivinity.com"]});
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "G-PSFNWT3V6Y");
+</script>
+
+<!-- End Google tag (gtag.js) snippet added by Site Kit -->
+<link rel="https://api.w.org/" href="https://www.yogadivinity.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.yogadivinity.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.7.2" />
+
+		<!-- GA Google Analytics @ https://m0n.co/ga -->
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+			ga('create', 'G-PSFNWT3V6Y', 'auto');
+			ga('require', 'displayfeatures');
+			ga('require', 'linkid');
+			ga('set', 'anonymizeIp', true);
+			ga('set', 'forceSSL', true);
+			ga('send', 'pageview');
+		</script>
+
+	<meta name="generator" content="Site Kit by Google 1.149.1" /><script type="text/javascript">var daim_ajax_url = "https://www.yogadivinity.com/wp-admin/admin-ajax.php";var daim_nonce = "5e597044cb";</script>		<style id="wp-custom-css">
+			/* GeneratePress Site CSS */ /* Colors */
+.main-navigation ul li:after {
+    background-color: #000;
+}
+
+.main-navigation .inside-navigation {
+    border-top: 0.5px solid #d4d7d8;
+}
+
+.wpsp-card, .wpsp-card a, .wpsp-card .wp-show-posts-meta a, .wpsp-card .wp-show-posts-meta a:visited {
+    color: #fff;
+}
+.navigation-search.nav-search-active {
+	background-color: rgba(255,255,255,0.95);
+	top: 100%;
+}
+
+/* Theme Global */
+@media (min-width: 769px) {
+    body {
+        margin: 0 30px;
+    }
+}
+
+body.single-post.no-sidebar .site-content {
+    max-width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Navigation */
+.second-nav.grid-container {
+    padding: 0;
+}
+
+@media (min-width: 769px) {
+    .main-navigation ul li {
+        position: relative;
+    }
+
+    .main-navigation ul li:after {
+        content: '';
+        position: absolute;
+        height: 0;
+        width: 100%;
+        bottom: 0;
+        left: 0;
+        pointer-events: none;
+        filter: hue-rotation(90deg);
+        -webkit-filter: hue-rotation(90deg);
+        -webkit-transition: height 0.35s ease;
+        transition: height 0.35s ease;
+    }
+
+    .main-navigation ul li:hover:after, .main-navigation ul li.current-menu-item:after {
+        height: 6px;
+    }
+}
+
+/* Widgets */
+.widget-title {
+    margin: 1em 0;
+    font-size: 0.8em !Important;
+}
+
+.widget .wp-show-posts article {
+    margin-bottom: 0.5em !important;
+}
+
+.zero-padding {
+    padding: 0 !important;
+}
+
+.widget.no-background {
+    background-color: transparent;
+}
+
+/* Buttons */
+button, html input[type="button"], input[type="reset"], input[type="submit"], a.button, a.button:visited, a.wp-block-button__link:not(.has-background) {
+    pointer-events: initial !important;
+    border-color: inherit;
+    border: 1px solid;
+}
+
+/* Blog */
+.generate-columns .inside-article {
+    padding: 0 0 15px;
+}
+
+@media (max-width: 768px) {
+    .generate-columns .inside-article>*:not(.post-image) {
+        padding: 0 15px;
+    }
+}
+
+.generate-columns-container article .inside-article .post-image {
+    margin-bottom: 0.5em;
+}
+
+.generate-columns-container article .inside-article .entry-summary {
+    margin-top: 0.5em;
+    font-size: 0.8em;
+}
+
+.generate-columns-container article .entry-header, .wp-show-posts-entry-header {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: reverse;
+    -ms-flex-direction: column-reverse;
+    flex-direction: column-reverse;
+}
+
+@media (min-width: 768px) {
+.generate-columns-container article .entry-header .entry-title, .wp-show-posts article .wp-show-posts-entry-title {
+    line-height: 2.5ex;
+    height: 5ex;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+}
+
+.wp-show-posts .wp-show-posts-inner {
+    overflow: hidden;
+}
+
+@media (min-width: 420px) {
+.wpsp-align .wp-show-posts-image {
+    margin-bottom: 0;
+}
+}
+.wpsp-align .wp-show-posts-image a, .wpsp-align .wp-show-posts-image img {
+    height: 100%;
+}
+
+.generate-columns-container article .inside-article img, .wp-show-posts-image img {
+    -o-object-fit: cover !important;
+    object-fit: cover !important;
+}
+
+/* WPSP Grids */
+/* Single column align side image */
+/* Add wpsp-align class to to WPSP List shortcode wrapper */
+@media (min-width: 420px) {
+    .wpsp-align .wp-show-posts-inner {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+    }
+
+    .wpsp-align .wp-show-posts-inner>div {
+        -webkit-box-flex: 1;
+        -ms-flex: 1;
+        flex: 1;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 768px) and (min-width: 420px) {
+    .wpsp-align .wp-show-posts-inner .wp-show-posts-image {
+        margin-right: 1.5em;
+    }
+}
+
+/* magazine Grid Golden Ratio 5 block standard */
+/* Add wpsp-grid class to WPSP List shortcode wrapper */
+@media (min-width: 600px) {
+    .wpsp-grid .wp-show-posts {
+        display: grid;
+    }
+}
+
+@media (min-width: 900px) {
+    .wpsp-grid .wp-show-posts {
+        grid-template-columns: repeat(8, 1fr);
+        grid-template-rows: 1fr auto;
+    }
+
+    .wpsp-grid .wp-show-posts article:first-child {
+        grid-column: 1 / 5;
+        grid-row: 1 / 4;
+    }
+
+    .wpsp-grid .wp-show-posts article:nth-child(2) {
+        grid-column: 5 / end;
+        grid-row: 1 / 2;
+    }
+
+    .wpsp-grid .wp-show-posts article:nth-child(3) {
+        grid-column: 5 / 7;
+        grid-row: 2 / 4;
+    }
+
+    .wpsp-grid .wp-show-posts article:nth-child(4) {
+        grid-column: 7 / end;
+        grid-row: 2 / 4;
+    }
+}
+
+@media (max-width: 899px) and (min-width: 600px) {
+    .wpsp-grid .wp-show-posts article {
+        grid-column: span 4;
+    }
+
+    .wpsp-grid .wp-show-posts article:nth-child(3), .wpsp-grid .wp-show-posts article:nth-child(4) {
+        grid-row: 3;
+        grid-column: span 2;
+    }
+}
+
+.wpsp-grid article:not(:first-child) .wp-show-posts-image a img {
+    height: 250px;
+    width: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
+
+.wpsp-grid article:first-child .wp-show-posts-image a img {
+    height: 500px;
+    width: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
+
+.wpsp-grid article:not(:first-child) .wp-show-posts-entry-summary, .wpsp-grid article:not(:first-child) .wp-show-posts-entry-meta-below-post, .wpsp-grid article:not(:first-child) .wpsp-read-more {
+    display: none;
+}
+
+/* WPSP Card Styling */
+/* Add wpsp-card class to WPSP List shortcode wrapper */
+.wpsp-card .wp-show-posts-meta a, .wpsp-card .wp-show-posts-meta a:visited {
+    font-size: 1em;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+:not(.widget).wpsp-card .wp-show-posts article, .wpsp-card .wp-show-posts-image {
+    margin-bottom: 0 !important;
+}
+
+.wpsp-card .wp-show-posts-inner {
+    position: relative;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.wpsp-card .wpsp-content-wrap {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 5% 8%;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0.35);
+    background: -webkit-gradient(linear, left bottom, left top, color-stop(30%, rgba(80, 50, 50, 0.5)), to(rgba(0, 0, 0, 0)));
+    background: linear-gradient(0deg, rgba(80, 50, 50, 0.5) 30%, rgba(0, 0, 0, 0) 100%);
+    pointer-events: none;
+}
+
+.wpsp-card article {
+    position: relative;
+    overflow: hidden;
+}
+
+.wpsp-card article, .wpsp-card article .wp-show-posts-image img {
+    -webkit-backface-visibility: hidden;
+    -webkit-transition: 0.3s all ease;
+    transition: 0.3s all ease;
+}
+
+.wpsp-card article:hover .wp-show-posts-image img {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    -webkit-transition: 0.3s all ease;
+    transition: 0.3s all ease;
+}
+
+
+.header-widget .lsi-social-icons li {
+	margin-bottom: 0 !important;
+}
+
+body .happyforms-flex {
+	padding: 0;
+} /* End GeneratePress Site CSS */		</style>
+		</head>
+
+<body class="error404 wp-custom-logo wp-embed-responsive post-image-above-header post-image-aligned-center generate-columns-activated infinite-scroll slideout-enabled slideout-mobile sticky-menu-fade right-sidebar nav-below-header separate-containers nav-search-enabled header-aligned-left dropdown-hover" itemtype="https://schema.org/WebPage" itemscope>
+	<a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>		<header class="site-header grid-container" id="masthead" aria-label="Site"  itemtype="https://schema.org/WPHeader" itemscope>
+			<div class="inside-header grid-container">
+				<div class="site-logo">
+					<a href="https://www.yogadivinity.com/" title="Yoga Divinity" rel="home">
+						<img  class="header-image is-logo-image" alt="Yoga Divinity" src="https://www.yogadivinity.com/wp-content/uploads/2022/04/cropped-Yoga-Divinity-Official-Logo-scaled-1.jpg" title="Yoga Divinity" width="1600" height="319" />
+					</a>
+				</div>			<div class="header-widget">
+				<aside id="lsi_widget-1" class="widget-odd widget-last widget-first widget-1 hide-on-mobile hide-on-tablet widget inner-padding widget_lsi_widget"><ul class="lsi-social-icons icon-set-lsi_widget-1" style="text-align: left"><li class="lsi-social-facebook"><a class="" rel="nofollow" title="Facebook" aria-label="Facebook" href="#" ><i class="lsicon lsicon-facebook"></i></a></li><li class="lsi-social-twitter"><a class="" rel="nofollow" title="Twitter" aria-label="Twitter" href="#" ><i class="lsicon lsicon-twitter"></i></a></li></ul></aside>			</div>
+						</div>
+		</header>
+				<nav class="main-navigation grid-container has-menu-bar-items sub-menu-right" id="site-navigation" aria-label="Primary"  itemtype="https://schema.org/SiteNavigationElement" itemscope>
+			<div class="inside-navigation grid-container">
+				<form method="get" class="search-form navigation-search" action="https://www.yogadivinity.com/">
+					<input type="search" class="search-field" value="" name="s" title="Search" />
+				</form>				<button class="menu-toggle" aria-controls="generate-slideout-menu" aria-expanded="false">
+					<span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" /></svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" /></svg></span><span class="mobile-menu">Menu</span>				</button>
+				<div id="primary-menu" class="main-nav"><ul id="menu-category-menu-dispatch" class=" menu sf-menu"><li id="menu-item-1537" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1537"><a href="https://www.yogadivinity.com/category/tips/">Tips</a></li>
+<li id="menu-item-1078" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1078"><a href="https://www.yogadivinity.com/category/postures/">Postures</a></li>
+<li id="menu-item-1079" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1079"><a href="https://www.yogadivinity.com/category/healing/">Healing</a></li>
+<li id="menu-item-1668" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1668"><a href="https://www.yogadivinity.com/category/meditation/">Meditation</a></li>
+<li id="menu-item-1669" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1669"><a href="https://www.yogadivinity.com/category/retreats/">Retreats</a></li>
+<li id="menu-item-1670" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1670"><a href="https://www.yogadivinity.com/category/pranyama/">Pranayama</a></li>
+</ul></div><div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Open Search Bar" href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path fill-rule="evenodd" clip-rule="evenodd" d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" /></svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" /></svg></span></a></span></div>			</div>
+		</nav>
+		<div class="second-nav grid-container">
+		
+</div>
+	<div class="site grid-container container hfeed" id="page">
+				<div class="site-content" id="content">
+			
+	<div class="content-area" id="primary">
+		<main class="site-main" id="main">
+			<div class="generate-columns-container "><div class="inside-article">
+
+	
+	<header class="entry-header" aria-label="Content">
+				<h1 class="entry-title" itemprop="headline">Oops! That page can&rsquo;t be found.</h1>
+	</header>
+
+	
+	<div class="entry-content" itemprop="text">
+		<p>It looks like nothing was found at this location. Maybe try searching?</p><form method="get" class="search-form" action="https://www.yogadivinity.com/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:">
+	</label>
+	<button class="search-submit" aria-label="Search"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path fill-rule="evenodd" clip-rule="evenodd" d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" /></svg></span></button></form>
+	</div>
+
+	
+</div>
+</div><!-- .generate-columns-contaier -->		</main>
+	</div>
+
+	<div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+	<div class="inside-right-sidebar">
+		<aside id="custom_html-1" class="widget_text widget-odd widget-first widget-1 wpsp-card zero-padding no-background widget inner-padding widget_custom_html"><div class="textwidget custom-html-widget"><style>.wp-show-posts-columns#wpsp-1207 {margin-left: -2em; }.wp-show-posts-columns#wpsp-1207 .wp-show-posts-inner {margin: 0 0 2em 2em; }</style><section id="wpsp-1207" class=" wp-show-posts" style=""><article class=" wp-show-posts-single wpsp-clearfix post-4181 post type-post status-publish format-standard has-post-thumbnail hentry category-tips" itemtype="http://schema.org/CreativeWork" itemscope><div class="wp-show-posts-inner" style="">		<div class="wp-show-posts-image  wpsp-image-center ">
+			<a href="https://www.yogadivinity.com/daily-yoga-vacation/"  title="3 Key Reasons to Do Daily Yoga While on a Vacation"><img width="1600" height="1067" src="https://www.yogadivinity.com/wp-content/uploads/2025/01/mike-cox-zV9UGexcG8A-unsplash.jpg" class="attachment-full size-full wp-post-image" alt="" itemprop="image" decoding="async" fetchpriority="high" srcset="https://www.yogadivinity.com/wp-content/uploads/2025/01/mike-cox-zV9UGexcG8A-unsplash.jpg 1600w, https://www.yogadivinity.com/wp-content/uploads/2025/01/mike-cox-zV9UGexcG8A-unsplash-300x200.jpg 300w, https://www.yogadivinity.com/wp-content/uploads/2025/01/mike-cox-zV9UGexcG8A-unsplash-1024x683.jpg 1024w, https://www.yogadivinity.com/wp-content/uploads/2025/01/mike-cox-zV9UGexcG8A-unsplash-768x512.jpg 768w, https://www.yogadivinity.com/wp-content/uploads/2025/01/mike-cox-zV9UGexcG8A-unsplash-1536x1024.jpg 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></a>		</div>
+		<div class="wpsp-content-wrap">
+	<!-- Openeing wrapper -->						<header class="wp-show-posts-entry-header">
+							<h2 class="wp-show-posts-entry-title" itemprop="headline"><a href="https://www.yogadivinity.com/daily-yoga-vacation/" rel="bookmark">3 Key Reasons to Do Daily Yoga While on a Vacation</a></h2><div class="wp-show-posts-entry-meta wp-show-posts-entry-meta-below-title post-meta-inline"><span class="wp-show-posts-terms wp-show-posts-meta"><a href="https://www.yogadivinity.com/category/tips/" rel="tag">Tips</a></span></div>						</header><!-- .entry-header -->
+					<!-- Close WPSP Wrapper -->
+</div></div><!-- wp-show-posts-inner --><div class="wpsp-clear"></div></article><article class=" wp-show-posts-single wpsp-clearfix post-4168 post type-post status-publish format-standard has-post-thumbnail hentry category-tips" itemtype="http://schema.org/CreativeWork" itemscope><div class="wp-show-posts-inner" style="">		<div class="wp-show-posts-image  wpsp-image-center ">
+			<a href="https://www.yogadivinity.com/life-lessons-yoga-practitioners/"  title="Life Lessons from the Mat: 9 Yoga Practitioners Share their Experiences"><img width="1024" height="1024" src="https://www.yogadivinity.com/wp-content/uploads/2024/12/yoga-ai-image.jpg" class="attachment-full size-full wp-post-image" alt="" itemprop="image" decoding="async" srcset="https://www.yogadivinity.com/wp-content/uploads/2024/12/yoga-ai-image.jpg 1024w, https://www.yogadivinity.com/wp-content/uploads/2024/12/yoga-ai-image-300x300.jpg 300w, https://www.yogadivinity.com/wp-content/uploads/2024/12/yoga-ai-image-150x150.jpg 150w, https://www.yogadivinity.com/wp-content/uploads/2024/12/yoga-ai-image-768x768.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a>		</div>
+		<div class="wpsp-content-wrap">
+	<!-- Openeing wrapper -->						<header class="wp-show-posts-entry-header">
+							<h2 class="wp-show-posts-entry-title" itemprop="headline"><a href="https://www.yogadivinity.com/life-lessons-yoga-practitioners/" rel="bookmark">Life Lessons from the Mat: 9 Yoga Practitioners Share their Experiences</a></h2><div class="wp-show-posts-entry-meta wp-show-posts-entry-meta-below-title post-meta-inline"><span class="wp-show-posts-terms wp-show-posts-meta"><a href="https://www.yogadivinity.com/category/tips/" rel="tag">Tips</a></span></div>						</header><!-- .entry-header -->
+					<!-- Close WPSP Wrapper -->
+</div></div><!-- wp-show-posts-inner --><div class="wpsp-clear"></div></article><article class=" wp-show-posts-single wpsp-clearfix post-4159 post type-post status-publish format-standard has-post-thumbnail hentry category-tips" itemtype="http://schema.org/CreativeWork" itemscope><div class="wp-show-posts-inner" style="">		<div class="wp-show-posts-image  wpsp-image-center ">
+			<a href="https://www.yogadivinity.com/staying-consistent-yoga-busy-schedules/"  title="Finding Balance: 6 Yoga Tips for Busy Schedules"><img width="1024" height="1024" src="https://www.yogadivinity.com/wp-content/uploads/2024/12/yoga-ai-image.jpg" class="attachment-full size-full wp-post-image" alt="" itemprop="image" decoding="async" srcset="https://www.yogadivinity.com/wp-content/uploads/2024/12/yoga-ai-image.jpg 1024w, https://www.yogadivinity.com/wp-content/uploads/2024/12/yoga-ai-image-300x300.jpg 300w, https://www.yogadivinity.com/wp-content/uploads/2024/12/yoga-ai-image-150x150.jpg 150w, https://www.yogadivinity.com/wp-content/uploads/2024/12/yoga-ai-image-768x768.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a>		</div>
+		<div class="wpsp-content-wrap">
+	<!-- Openeing wrapper -->						<header class="wp-show-posts-entry-header">
+							<h2 class="wp-show-posts-entry-title" itemprop="headline"><a href="https://www.yogadivinity.com/staying-consistent-yoga-busy-schedules/" rel="bookmark">Finding Balance: 6 Yoga Tips for Busy Schedules</a></h2><div class="wp-show-posts-entry-meta wp-show-posts-entry-meta-below-title post-meta-inline"><span class="wp-show-posts-terms wp-show-posts-meta"><a href="https://www.yogadivinity.com/category/tips/" rel="tag">Tips</a></span></div>						</header><!-- .entry-header -->
+					<!-- Close WPSP Wrapper -->
+</div></div><!-- wp-show-posts-inner --><div class="wpsp-clear"></div></article></section><!-- .wp-show-posts --></div></aside><aside id="search-1" class="widget-even widget-2 widget inner-padding widget_search"><form method="get" class="search-form" action="https://www.yogadivinity.com/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:">
+	</label>
+	<button class="search-submit" aria-label="Search"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path fill-rule="evenodd" clip-rule="evenodd" d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" /></svg></span></button></form>
+</aside><aside id="custom_html-2" class="widget_text widget-odd widget-3 widget inner-padding widget_custom_html"><div class="textwidget custom-html-widget"><style>.wp-show-posts-columns#wpsp-1498 {margin-left: -2em; }.wp-show-posts-columns#wpsp-1498 .wp-show-posts-inner {margin: 0 0 2em 2em; }</style><section id="wpsp-1498" class=" wp-show-posts" style=""><article class=" wp-show-posts-single wpsp-clearfix post-4181 post type-post status-publish format-standard has-post-thumbnail hentry category-tips" itemtype="http://schema.org/CreativeWork" itemscope><div class="wp-show-posts-inner" style="">		<div class="wp-show-posts-image  wpsp-image-left ">
+			<a href="https://www.yogadivinity.com/daily-yoga-vacation/"  title="3 Key Reasons to Do Daily Yoga While on a Vacation">					<img src="https://www.yogadivinity.com/wp-content/uploads/2025/01/mike-cox-zV9UGexcG8A-unsplash-50x50.jpg" alt="3 Key Reasons to Do Daily Yoga While on a Vacation" itemprop="image" class="left" />
+				</a>		</div>
+		<div class="wpsp-content-wrap">
+	<!-- Openeing wrapper -->						<header class="wp-show-posts-entry-header">
+							<p class="wp-show-posts-entry-title" itemprop="headline"><a href="https://www.yogadivinity.com/daily-yoga-vacation/" rel="bookmark">3 Key Reasons to Do Daily Yoga While on a Vacation</a></p>						</header><!-- .entry-header -->
+					<!-- Close WPSP Wrapper -->
+</div></div><!-- wp-show-posts-inner --><div class="wpsp-clear"></div></article><article class=" wp-show-posts-single wpsp-clearfix post-4168 post type-post status-publish format-standard has-post-thumbnail hentry category-tips" itemtype="http://schema.org/CreativeWork" itemscope><div class="wp-show-posts-inner" style="">		<div class="wp-show-posts-image  wpsp-image-left ">
+			<a href="https://www.yogadivinity.com/life-lessons-yoga-practitioners/"  title="Life Lessons from the Mat: 9 Yoga Practitioners Share their Experiences">					<img src="https://www.yogadivinity.com/wp-content/uploads/2024/12/yoga-ai-image-50x50.jpg" alt="Life Lessons from the Mat: 9 Yoga Practitioners Share their Experiences" itemprop="image" class="left" />
+				</a>		</div>
+		<div class="wpsp-content-wrap">
+	<!-- Openeing wrapper -->						<header class="wp-show-posts-entry-header">
+							<p class="wp-show-posts-entry-title" itemprop="headline"><a href="https://www.yogadivinity.com/life-lessons-yoga-practitioners/" rel="bookmark">Life Lessons from the Mat: 9 Yoga Practitioners Share their Experiences</a></p>						</header><!-- .entry-header -->
+					<!-- Close WPSP Wrapper -->
+</div></div><!-- wp-show-posts-inner --><div class="wpsp-clear"></div></article><article class=" wp-show-posts-single wpsp-clearfix post-4159 post type-post status-publish format-standard has-post-thumbnail hentry category-tips" itemtype="http://schema.org/CreativeWork" itemscope><div class="wp-show-posts-inner" style="">		<div class="wp-show-posts-image  wpsp-image-left ">
+			<a href="https://www.yogadivinity.com/staying-consistent-yoga-busy-schedules/"  title="Finding Balance: 6 Yoga Tips for Busy Schedules">					<img src="https://www.yogadivinity.com/wp-content/uploads/2024/12/yoga-ai-image-50x50.jpg" alt="Finding Balance: 6 Yoga Tips for Busy Schedules" itemprop="image" class="left" />
+				</a>		</div>
+		<div class="wpsp-content-wrap">
+	<!-- Openeing wrapper -->						<header class="wp-show-posts-entry-header">
+							<p class="wp-show-posts-entry-title" itemprop="headline"><a href="https://www.yogadivinity.com/staying-consistent-yoga-busy-schedules/" rel="bookmark">Finding Balance: 6 Yoga Tips for Busy Schedules</a></p>						</header><!-- .entry-header -->
+					<!-- Close WPSP Wrapper -->
+</div></div><!-- wp-show-posts-inner --><div class="wpsp-clear"></div></article><article class=" wp-show-posts-single wpsp-clearfix post-4149 post type-post status-publish format-standard has-post-thumbnail hentry category-tips" itemtype="http://schema.org/CreativeWork" itemscope><div class="wp-show-posts-inner" style="">		<div class="wp-show-posts-image  wpsp-image-left ">
+			<a href="https://www.yogadivinity.com/what-size-yoga-ball-for-pregnancy/"  title="What Size Yoga Ball For Pregnancy? Choosing The Right Fit">					<img src="https://www.yogadivinity.com/wp-content/uploads/2024/04/Depositphotos_80473974_S-50x50.jpg" alt="What Size Yoga Ball For Pregnancy? Choosing The Right Fit" itemprop="image" class="left" />
+				</a>		</div>
+		<div class="wpsp-content-wrap">
+	<!-- Openeing wrapper -->						<header class="wp-show-posts-entry-header">
+							<p class="wp-show-posts-entry-title" itemprop="headline"><a href="https://www.yogadivinity.com/what-size-yoga-ball-for-pregnancy/" rel="bookmark">What Size Yoga Ball For Pregnancy? Choosing The Right Fit</a></p>						</header><!-- .entry-header -->
+					<!-- Close WPSP Wrapper -->
+</div></div><!-- wp-show-posts-inner --><div class="wpsp-clear"></div></article><article class=" wp-show-posts-single wpsp-clearfix post-4143 post type-post status-publish format-standard has-post-thumbnail hentry category-tips" itemtype="http://schema.org/CreativeWork" itemscope><div class="wp-show-posts-inner" style="">		<div class="wp-show-posts-image  wpsp-image-left ">
+			<a href="https://www.yogadivinity.com/how-to-use-a-yoga-mat-strap/"  title="How To Use A Yoga Mat Strap: Easy Step-by-Step Guide">					<img src="https://www.yogadivinity.com/wp-content/uploads/2024/04/Depositphotos_439936660_S-50x50.jpg" alt="How To Use A Yoga Mat Strap: Easy Step-by-Step Guide" itemprop="image" class="left" />
+				</a>		</div>
+		<div class="wpsp-content-wrap">
+	<!-- Openeing wrapper -->						<header class="wp-show-posts-entry-header">
+							<p class="wp-show-posts-entry-title" itemprop="headline"><a href="https://www.yogadivinity.com/how-to-use-a-yoga-mat-strap/" rel="bookmark">How To Use A Yoga Mat Strap: Easy Step-by-Step Guide</a></p>						</header><!-- .entry-header -->
+					<!-- Close WPSP Wrapper -->
+</div></div><!-- wp-show-posts-inner --><div class="wpsp-clear"></div></article><article class=" wp-show-posts-single wpsp-clearfix post-4135 post type-post status-publish format-standard has-post-thumbnail hentry category-postures" itemtype="http://schema.org/CreativeWork" itemscope><div class="wp-show-posts-inner" style="">		<div class="wp-show-posts-image  wpsp-image-left ">
+			<a href="https://www.yogadivinity.com/what-is-ddp-yoga/"  title="What Is DDP Yoga? Discover The Benefits Of This Dynamic Fitness Program">					<img src="https://www.yogadivinity.com/wp-content/uploads/2024/03/Depositphotos_42847699_S-50x50.jpg" alt="What Is DDP Yoga? Discover The Benefits Of This Dynamic Fitness Program" itemprop="image" class="left" />
+				</a>		</div>
+		<div class="wpsp-content-wrap">
+	<!-- Openeing wrapper -->						<header class="wp-show-posts-entry-header">
+							<p class="wp-show-posts-entry-title" itemprop="headline"><a href="https://www.yogadivinity.com/what-is-ddp-yoga/" rel="bookmark">What Is DDP Yoga? Discover The Benefits Of This Dynamic Fitness Program</a></p>						</header><!-- .entry-header -->
+					<!-- Close WPSP Wrapper -->
+</div></div><!-- wp-show-posts-inner --><div class="wpsp-clear"></div></article></section><!-- .wp-show-posts --></div></aside><aside id="categories-2" class="widget-even widget-4 widget inner-padding widget_categories"><h2 class="widget-title">Categories</h2>
+			<ul>
+					<li class="cat-item cat-item-4"><a href="https://www.yogadivinity.com/category/healing/">Healing</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="https://www.yogadivinity.com/category/meditation/">Meditation</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="https://www.yogadivinity.com/category/postures/">Postures</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="https://www.yogadivinity.com/category/pranyama/">Pranayama</a>
+</li>
+	<li class="cat-item cat-item-2"><a href="https://www.yogadivinity.com/category/tips/">Tips</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://www.yogadivinity.com/category/uncategorized/">Uncategorized</a>
+</li>
+			</ul>
+
+			</aside>
+		<aside id="recent-posts-2" class="widget-odd widget-last widget-5 widget inner-padding widget_recent_entries">
+		<h2 class="widget-title">Recent Posts</h2>
+		<ul>
+											<li>
+					<a href="https://www.yogadivinity.com/daily-yoga-vacation/">3 Key Reasons to Do Daily Yoga While on a Vacation</a>
+									</li>
+											<li>
+					<a href="https://www.yogadivinity.com/life-lessons-yoga-practitioners/">Life Lessons from the Mat: 9 Yoga Practitioners Share their Experiences</a>
+									</li>
+											<li>
+					<a href="https://www.yogadivinity.com/staying-consistent-yoga-busy-schedules/">Finding Balance: 6 Yoga Tips for Busy Schedules</a>
+									</li>
+											<li>
+					<a href="https://www.yogadivinity.com/what-size-yoga-ball-for-pregnancy/">What Size Yoga Ball For Pregnancy? Choosing The Right Fit</a>
+									</li>
+											<li>
+					<a href="https://www.yogadivinity.com/how-to-use-a-yoga-mat-strap/">How To Use A Yoga Mat Strap: Easy Step-by-Step Guide</a>
+									</li>
+											<li>
+					<a href="https://www.yogadivinity.com/what-is-ddp-yoga/">What Is DDP Yoga? Discover The Benefits Of This Dynamic Fitness Program</a>
+									</li>
+											<li>
+					<a href="https://www.yogadivinity.com/yoga-for-male-beginners-over-50/">Yoga for Male Beginners Over 50: Gateway to Vitality and Health</a>
+									</li>
+											<li>
+					<a href="https://www.yogadivinity.com/can-you-meditate-with-your-eyes-open/">Can You Meditate with Your Eyes Open: Insights and Techniques</a>
+									</li>
+											<li>
+					<a href="https://www.yogadivinity.com/yoga-before-or-after-walking/">Yoga Before or After Walking: Optimizing Your Exercise Routine</a>
+									</li>
+											<li>
+					<a href="https://www.yogadivinity.com/camel-toe-in-tights/">Camel Toe in Tights: Addressing Fit and Comfort Issues</a>
+									</li>
+					</ul>
+
+		</aside>	</div>
+</div>
+
+	</div>
+</div>
+
+
+<div class="site-footer grid-container">
+			<footer class="site-info" aria-label="Site"  itemtype="https://schema.org/WPFooter" itemscope>
+			<div class="inside-site-info grid-container">
+								<div class="copyright-bar">
+					&copy; 2025 Dispatch a GeneratePress Site by <a href="https://flintskin.com">Flint Skin</a>				</div>
+			</div>
+		</footer>
+		</div>
+
+		<nav id="generate-slideout-menu" class="main-navigation slideout-navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope style="display: none;" aria-hidden="true">
+			<div class="inside-navigation grid-container grid-parent">
+				<div class="main-nav"><ul id="menu-primary-menu-dispatch" class=" slideout-menu"><li id="menu-item-1154" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1154"><a href="https://www.yogadivinity.com">Home</a></li>
+<li id="menu-item-1155" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-1155"><a href="https://www.yogadivinity.com/blog/">Blog</a></li>
+<li id="menu-item-1639" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1639"><a href="https://www.yogadivinity.com/about/">About</a></li>
+<li id="menu-item-1638" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1638"><a href="https://www.yogadivinity.com/contact/">Contact</a></li>
+</ul></div><aside id="lsi_widget-2" class="widget-odd widget-last widget-first widget-1 slideout-widget widget_lsi_widget"><ul class="lsi-social-icons icon-set-lsi_widget-2" style="text-align: left"><li class="lsi-social-facebook"><a class="" rel="nofollow" title="Facebook" aria-label="Facebook" href="#" ><i class="lsicon lsicon-facebook"></i></a></li><li class="lsi-social-twitter"><a class="" rel="nofollow" title="Twitter" aria-label="Twitter" href="#" ><i class="lsicon lsicon-twitter"></i></a></li></ul></aside>			</div><!-- .inside-navigation -->
+		</nav><!-- #site-navigation -->
+
+					<div class="slideout-overlay">
+									<button class="slideout-exit has-svg-icon">
+						<span class="gp-icon pro-close">
+				<svg viewBox="0 0 512 512" aria-hidden="true" role="img" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1em" height="1em">
+					<path d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+				</svg>
+			</span>						<span class="screen-reader-text">Close</span>
+					</button>
+							</div>
+			<script id="generate-a11y">!function(){"use strict";if("querySelector"in document&&"addEventListener"in window){var e=document.body;e.addEventListener("mousedown",function(){e.classList.add("using-mouse")}),e.addEventListener("keydown",function(){e.classList.remove("using-mouse")})}}();</script><link rel='stylesheet' id='lsi-style-css' href='https://www.yogadivinity.com/wp-content/plugins/lightweight-social-icons/css/style-min.css?ver=1.1' media='all' />
+<style id='lsi-style-inline-css'>
+.icon-set-lsi_widget-1 a,
+			.icon-set-lsi_widget-1 a:visited,
+			.icon-set-lsi_widget-1 a:focus {
+				border-radius: 2px;
+				background: #fbfbfb !important;
+				color: #3a3a3c !important;
+				font-size: 15px !important;
+			}
+
+			.icon-set-lsi_widget-1 a:hover {
+				background: #fbfbfb !important;
+				color: #ff1956 !important;
+			}
+.icon-set-lsi_widget-2 a,
+			.icon-set-lsi_widget-2 a:visited,
+			.icon-set-lsi_widget-2 a:focus {
+				border-radius: 2px;
+				background: #fbfbfb !important;
+				color: #3a3a3c !important;
+				font-size: 20px !important;
+			}
+
+			.icon-set-lsi_widget-2 a:hover {
+				background: #fbfbfb !important;
+				color: #ff1956 !important;
+			}
+</style>
+<script id="generate-offside-js-extra">
+var offSide = {"side":"left"};
+</script>
+<script src="https://www.yogadivinity.com/wp-content/plugins/gp-premium/menu-plus/functions/js/offside.min.js?ver=2.2.2" id="generate-offside-js"></script>
+<!--[if lte IE 11]>
+<script src="https://www.yogadivinity.com/wp-content/themes/generatepress/assets/js/classList.min.js?ver=3.1.3" id="generate-classlist-js"></script>
+<![endif]-->
+<script id="generate-menu-js-extra">
+var generatepressMenu = {"toggleOpenedSubMenus":"1","openSubMenuLabel":"Open Sub-Menu","closeSubMenuLabel":"Close Sub-Menu"};
+</script>
+<script src="https://www.yogadivinity.com/wp-content/themes/generatepress/assets/js/menu.min.js?ver=3.1.3" id="generate-menu-js"></script>
+<script id="generate-navigation-search-js-extra">
+var generatepressNavSearch = {"open":"Open Search Bar","close":"Close Search Bar"};
+</script>
+<script src="https://www.yogadivinity.com/wp-content/themes/generatepress/assets/js/navigation-search.min.js?ver=3.1.3" id="generate-navigation-search-js"></script>
+
+</body>
+</html>

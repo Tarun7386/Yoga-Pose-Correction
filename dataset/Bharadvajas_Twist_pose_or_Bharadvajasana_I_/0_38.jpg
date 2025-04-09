@@ -1,0 +1,1404 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+    <meta name="pageId" content="3f218c86412c66c71799c70ca926fff6"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<script type="text/javascript">
+/* <![CDATA[ */
+ var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,initializeOnLoaded:function(o){gform.domLoaded&&gform.scriptsLoaded?o():!gform.domLoaded&&gform.scriptsLoaded?window.addEventListener("DOMContentLoaded",o):document.addEventListener("gform_main_scripts_loaded",o)},hooks:{action:{},filter:{}},addAction:function(o,n,r,t){gform.addHook("action",o,n,r,t)},addFilter:function(o,n,r,t){gform.addHook("filter",o,n,r,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,n){gform.removeHook("action",o,n)},removeFilter:function(o,n,r){gform.removeHook("filter",o,n,r)},addHook:function(o,n,r,t,i){null==gform.hooks[o][n]&&(gform.hooks[o][n]=[]);var e=gform.hooks[o][n];null==i&&(i=n+"_"+e.length),gform.hooks[o][n].push({tag:i,callable:r,priority:t=null==t?10:t})},doHook:function(n,o,r){var t;if(r=Array.prototype.slice.call(r,1),null!=gform.hooks[n][o]&&((o=gform.hooks[n][o]).sort(function(o,n){return o.priority-n.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==n?t.apply(null,r):r[0]=t.apply(null,r)})),"filter"==n)return r[0]},removeHook:function(o,n,t,i){var r;null!=gform.hooks[o][n]&&(r=(r=gform.hooks[o][n]).filter(function(o,n,r){return!!(null!=i&&i!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][n]=r)}}); 
+/* ]]> */
+</script>
+
+
+<!-- @* IMPORTANT: crossorigin is for CORS connections only. Only use for CORS connections *@-->
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin />
+    <link rel="preconnect" href="https://www.google-analytics.com" />
+
+    <link rel="preconnect" href="https://code.jquery.com/" />
+
+    <!-- CrazyEgg Script -->
+    <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0087/7497.js" async="async"></script>
+
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9778951872799115"
+            crossorigin="anonymous"></script>
+
+    <!--Google Consent-->
+    <script data-ot-ignore>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+    </script>
+
+    <!--    Pre gtm-->
+    
+    <!--    Google Tag Manager Head-->
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', '@ConfigurationSetting.GOOGLE_ANALYTICS_KEY', '@Globals.configSettings.ApplicationName.ToLower()' + '.com');
+        ga('require', 'displayfeatures');
+        ga('require', 'linkid');
+        if (typeof gaTags !== 'undefined' && gaTags !== null && gaTags.length > 0) {
+            gaTags.forEach(item => {
+                ga('set', item.name, item.value);
+            })
+        }
+        ga('send', 'pageview');
+    </script>
+
+    <!-- Global site tag (gtag.js) - GA4 -->
+    <!-- #21592 - we have no access to Googe Tag manager -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-F5XHVQ8SWV"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-F5XHVQ8SWV');
+    </script>
+
+
+    <!-- Head Tags-->
+    <title>404 - Page Not Found</title>
+    <link rel="apple-touch-icon" sizes="180x180"
+          href="https://www.yogapedia.com/wp-content/themes/starter-theme/resource/images/favicon/apple-touch-icon.png"/>
+    <link rel="icon" type="image/png" sizes="32x32"
+          href="https://www.yogapedia.com/wp-content/themes/starter-theme/resource/images/favicon/favicon-32x32.png"/>
+    <link rel="icon" type="image/png" sizes="16x16"
+          href="https://www.yogapedia.com/wp-content/themes/starter-theme/resource/images/favicon/favicon-16x16.png"/>
+    <link rel="mask-icon"
+          href="https://www.yogapedia.com/wp-content/themes/starter-theme/resource/images/favicon/safari-pinned-tab.svg"
+          color="#5bbad5"/>
+    <link rel="shortcut icon"
+          href="https://www.yogapedia.com/wp-content/themes/starter-theme/resource/images/favicon/favicon.ico"/>
+    <meta name="apple-mobile-web-app-title" content="Yogapedia"/>
+    <meta name="application-name" content="Yogapedia"/>
+    <meta name="msapplication-TileColor" content="#ffffff"/>
+    <meta name="msapplication-config"
+          content="https://www.yogapedia.com/wp-content/themes/starter-theme/resource/images/favicon/browserconfig.xml"/>
+    <meta name="theme-color" content="#ffffff"/>
+    <link id="lnkOpenSearch" href="/opensearch.xml" rel="search"
+          title="Yogapedia" type="application/opensearchdescription+xml"/>
+
+    <!--    HeadTags-->
+    <meta name="atdlayout" content="ros" />
+
+    
+<!--@* Attempt at speeding up the site by pre-looking up the DNS needed to connect to these *@-->
+<link rel="preconnect" href="https://securepubads.g.doubleclick.net" crossorigin />
+<link rel="preload" as="script" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" />
+<script async src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'></script>
+<script>
+    var gptadslots = [];
+    window.googletag = window.googletag || { cmd: [] };
+</script>
+
+
+
+
+<!-- PubWise header bidding script Yogapedia.com start -->
+<script type="text/javascript" src="//fdyn.pubwise.io/script/3b550c2e-18ff-4ab4-90ab-c7f0a603ae4a/v3/dyn/pre_pws.js?type=default"></script>
+<script type="text/javascript" src="//fdyn.pubwise.io/script/3b550c2e-18ff-4ab4-90ab-c7f0a603ae4a/v3/dyn/pws.js?type=default" async></script>
+<!-- PubWise header bidding script Yogapedia.com end -->
+
+<script>
+    googletag.cmd.push(function () {
+
+        var mapping1 = googletag.sizeMapping().addSize([1024, 0],[]).addSize([500, 0], [[320,50]]).addSize([0, 0], [[320,50]]).build();
+        var mapping2 = googletag.sizeMapping().addSize([1024, 0],[[970,90],[728,90]]).addSize([500, 0], []).addSize([0, 0], []).build();
+        var mapping3 = googletag.sizeMapping().addSize([1024, 0],[[970,250],[970,90],[728,90]]).addSize([500, 0], []).addSize([0, 0], []).build();
+        var mapping4 = googletag.sizeMapping().addSize([1024, 0],[[160,600]]).addSize([500, 0], []).addSize([0, 0], []).build();
+        var mapping5 = googletag.sizeMapping().addSize([1024, 0],[[300,600],[160,600],[300,250]]).addSize([500, 0], []).addSize([0, 0], []).build();
+        var mapping6 = googletag.sizeMapping().addSize([1024, 0],[]).addSize([500, 0], [[300,250]]).addSize([0, 0],  [[300,250]]).build();
+        var mapping7 = googletag.sizeMapping().addSize([1024, 0],[]).addSize([500, 0], []).addSize([0, 0],  [[320,100],[320,50]]).build();
+        var mapping8 = googletag.sizeMapping().addSize([1024, 0],[[336,280],[300,250]]).addSize([500, 0], [[336,280],[300,250]]).addSize([0, 0], [[336,280],[300,250]]).build();
+        var mapping9 = googletag.sizeMapping().addSize([1024, 0],[[336,280],[300,250]]).addSize([500, 0], []).addSize([0, 0], []).build();
+        var mapping10 = googletag.sizeMapping().addSize([1024, 0],[[970,250],[970,90],[728,90]]).addSize([500, 0], [300,250]).addSize([0, 0], [300,250]).build();
+
+        gptadslots['div-gpt-ad-1595593347360-1'] = googletag.defineSlot('/22981269556/Yogapedia_Article_D////M_970x90_Footer', [[728, 90]], 'div-gpt-ad-1595593347360-1').defineSizeMapping(mapping2).addService(googletag.pubads());
+        gptadslots['div-gpt-ad-1596131215150-1'] = googletag.defineSlot('/22981269556/Yogapedia_All_Mobile_320x50_Footer', [320, 50], 'div-gpt-ad-1596131215150-1').defineSizeMapping(mapping1).addService(googletag.pubads());
+        gptadslots['div-gpt-ad-1595443803676-1'] = googletag.defineSlot('/22981269556/Yogapedia_Homepage_Desktop_970x90_Leaderboard', [[970, 250]], 'div-gpt-ad-1595443803676-1').defineSizeMapping(mapping3).addService(googletag.pubads());
+        gptadslots['div-gpt-ad-1595510918376-1'] = googletag.defineSlot('/22981269556/Yogapedia_Homepage_Desktop_160x600_RHS', [[160,600]], 'div-gpt-ad-1595510918376-1').defineSizeMapping(mapping4).addService(googletag.pubads());
+        gptadslots['div-gpt-ad-1600790879949-0'] = googletag.defineSlot('/22981269556/Yogapedia_Fireplace', [1, 1], 'div-gpt-ad-1600790879949-0').addService(googletag.pubads());
+        gptadslots['div-gpt-ad-1600791062758-0'] = googletag.defineSlot('/22981269556/Yogapedia_Masthead', [1440, 200], 'div-gpt-ad-1600791062758-0').addService(googletag.pubads());
+
+        gptadslots['div-gpt-ad-1595511916155-1'] = googletag.defineSlot('/22981269556/Yogapedia_Article_Desktop_970x250_Leaderboard', [[970, 90]], 'div-gpt-ad-1595511916155-1').defineSizeMapping(mapping3).addService(googletag.pubads());
+        gptadslots['div-gpt-ad-1596214433206-1'] = googletag.defineSlot('/22981269556/Yogapedia_Article_Desktop_300x250_Sticky', [[300, 250]], 'div-gpt-ad-1596214433206-1').defineSizeMapping(mapping5).addService(googletag.pubads());
+        gptadslots['div-gpt-ad-1596135877104-1'] = googletag.defineSlot('/22981269556/Yogapedia_Article_Mobile_320x50_Leaderboard', [[320, 50]], 'div-gpt-ad-1596135877104-1').defineSizeMapping(mapping7).addService(googletag.pubads());
+        gptadslots['div-gpt-ad-1595512714568-1'] = googletag.defineSlot('/22981269556/Yogapedia_Article_D////M_300x250_IC1', [[300, 250]], 'div-gpt-ad-1595512714568-1').defineSizeMapping(mapping8).addService(googletag.pubads());
+        gptadslots['div-gpt-ad-1595512812052-1'] = googletag.defineSlot('/22981269556/Yogapedia_Article_D////M_300x250_IC2', [[300, 250]], 'div-gpt-ad-1595512812052-1').defineSizeMapping(mapping8).addService(googletag.pubads());
+        gptadslots['div-gpt-ad-1595589529939-1'] = googletag.defineSlot('/22981269556/Yogapedia_Article_D////M_300x250_IC3', [[336, 280]], 'div-gpt-ad-1595589529939-1').defineSizeMapping(mapping8).addService(googletag.pubads());
+        gptadslots['div-gpt-ad-1595589848255-1'] = googletag.defineSlot('/22981269556/Yogapedia_Article_D////////M_300x250_EOA', [[336, 280]], 'div-gpt-ad-1595589848255-1').defineSizeMapping(mapping8).addService(googletag.pubads());
+        gptadslots['div-gpt-ad-1596461301952-0'] = googletag.defineSlot('/22981269556/Yogapedia_ArticleLink', ['fluid'], 'div-gpt-ad-1596461301952-0').addService(googletag.pubads());
+
+        gptadslots['div-gpt-ad-1595595038197-1'] = googletag.defineSlot('/22981269556/Yogapedia_Definition_Desktop_970x250_Leaderboard', [[970, 250]], 'div-gpt-ad-1595595038197-1').defineSizeMapping(mapping3).addService(googletag.pubads());
+        gptadslots['div-gpt-ad-1595595194007-1'] = googletag.defineSlot('/22981269556/Yogapedia_Definition_Desktop_300x250_RHS', [[300, 250]], 'div-gpt-ad-1595595194007-1').defineSizeMapping(mapping9).addService(googletag.pubads());
+        gptadslots['div-gpt-ad-1595595327030-1'] = googletag.defineSlot('/22981269556/Yogapedia_Definition_Desktop_300x600_RHS', [[300, 600]], 'div-gpt-ad-1595595327030-1').defineSizeMapping(mapping5).addService(googletag.pubads());
+        gptadslots['div-gpt-ad-1595595528254-1'] = googletag.defineSlot('/22981269556/Yogapedia_Definition_D////M_300x250_IC1', [[300, 250]], 'div-gpt-ad-1595595528254-1').defineSizeMapping(mapping8).addService(googletag.pubads());
+        gptadslots['div-gpt-ad-1595595704012-1'] = googletag.defineSlot('/22981269556/Yogapedia_Definition_D////M_300x250_EOA', [[300, 250]], 'div-gpt-ad-1595595704012-1').defineSizeMapping(mapping8).addService(googletag.pubads());
+        gptadslots['div-gpt-ad-1596136090114-1'] = googletag.defineSlot('/22981269556/Yogapedia_Definition_Mobile_320x50_Leaderboard', [[320, 50]], 'div-gpt-ad-1596136090114-1').defineSizeMapping(mapping7).addService(googletag.pubads());
+
+        //Homepage desktop inline ads
+        gptadslots['div-gpt-ad-22981269556-Yogapedia_Homepage_1'] = googletag.defineSlot('/22981269556/Yogapedia_Homepage_1', [[728, 90]], 'div-gpt-ad-22981269556-Yogapedia_Homepage_1').addService(googletag.pubads());
+        gptadslots['div-gpt-ad-22981269556-Yogapedia_Homepage_2'] = googletag.defineSlot('/22981269556/Yogapedia_Homepage_2', [[728, 90]], 'div-gpt-ad-22981269556-Yogapedia_Homepage_2').addService(googletag.pubads());
+        gptadslots['div-gpt-ad-22981269556-Yogapedia_Homepage_3'] = googletag.defineSlot('/22981269556/Yogapedia_Homepage_3', [[728, 90]], 'div-gpt-ad-22981269556-Yogapedia_Homepage_3').addService(googletag.pubads());
+        gptadslots['div-gpt-ad-22981269556-Yogapedia_Homepage_4'] = googletag.defineSlot('/22981269556/Yogapedia_Homepage_4', [[728, 90]], 'div-gpt-ad-22981269556-Yogapedia_Homepage_4').addService(googletag.pubads());
+        gptadslots['div-gpt-ad-22981269556-Yogapedia_Homepage_5'] = googletag.defineSlot('/22981269556/Yogapedia_Homepage_5', [[728, 90]], 'div-gpt-ad-22981269556-Yogapedia_Homepage_5').addService(googletag.pubads());
+
+        //Mobile Homepage inline ads
+        gptadslots['div-gpt-ad-22981269556-Yogapedia_Homepage_Mobile_1'] = googletag.defineSlot('/22981269556/Yogapedia_Homepage_Mobile_1', [[728, 90]], 'div-gpt-ad-22981269556-Yogapedia_Homepage_Mobile_1').defineSizeMapping(mapping10).addService(googletag.pubads());
+        gptadslots['div-gpt-ad-22981269556-Yogapedia_Homepage_Mobile_2'] = googletag.defineSlot('/22981269556/Yogapedia_Homepage_Mobile_2', [[728, 90]], 'div-gpt-ad-22981269556-Yogapedia_Homepage_Mobile_2').defineSizeMapping(mapping10).addService(googletag.pubads());
+        gptadslots['div-gpt-ad-22981269556-Yogapedia_Homepage_Mobile_3'] = googletag.defineSlot('/22981269556/Yogapedia_Homepage_Mobile_3', [[728, 90]], 'div-gpt-ad-22981269556-Yogapedia_Homepage_Mobile_3').defineSizeMapping(mapping10).addService(googletag.pubads());
+        gptadslots['div-gpt-ad-22981269556-Yogapedia_Homepage_Mobile_4'] = googletag.defineSlot('/22981269556/Yogapedia_Homepage_Mobile_4', [[728, 90]], 'div-gpt-ad-22981269556-Yogapedia_Homepage_Mobile_4').defineSizeMapping(mapping10).addService(googletag.pubads());
+        gptadslots['div-gpt-ad-22981269556-Yogapedia_Homepage_Mobile_5'] = googletag.defineSlot('/22981269556/Yogapedia_Homepage_Mobile_5', [[728, 90]], 'div-gpt-ad-22981269556-Yogapedia_Homepage_Mobile_5').defineSizeMapping(mapping10).addService(googletag.pubads());
+
+
+        // Footer sticky ad, if displayed, add extra space to the footer as well as show the wrapper
+        googletag.pubads().addEventListener('slotRenderEnded', function (event) {
+            if (!event.isEmpty) {
+                var id = event.slot.getSlotElementId();
+                if (id === 'div-gpt-ad-1595593347360-1' || id === 'div-gpt-ad-1596131215150-1') {
+                    $('#footer-sticky-ad').addClass('footer-sticky-ad-wrapper');
+                    $('#footer').addClass('stickyad-wrapper');
+                }
+            }
+        });
+
+        googletag.pubads().enableSingleRequest();
+        googletag.pubads().collapseEmptyDivs();
+        googletag.enableServices();
+    });
+</script>
+
+    <!--TODO: Update Font tags for each site-->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700" rel="stylesheet" type="text/css" />
+
+    <script>
+        // Defer scripts
+        !function (f, i, t) {
+            var r, c, o = [], u = /p/.test(i.readyState), l = 'IntersectionObserver', d = Function(), h = /^data-(.+)/,
+                e = 'pageshow', m = 'attributes', p = 'lazied', v = 'length', n = 'Attribute', a = 'SCRIPT',
+                y = 'forEach', b = 'has' + n, g = 'nodeName', I = 'set' + n;
+
+            function s(e, n, t, o) {
+                return o = (n ? i.getElementById(n) : c) || i.createElement(e || a), n && (o.id = n), t && (o.onload = t), o
+            }
+
+            function E(e) {
+                i.head.appendChild(e)
+            }
+
+            function N(e, n) {
+                return [].slice.call((n || i).querySelectorAll(e))
+            }
+
+            function x(e) {
+                r(function (o) {
+                    o = N(e || '[type=deferjs]'), function e(n, t) {
+                        (n = o.shift()) && (n.parentNode.removeChild(n), (t = function (e, n, t, o, i) {
+                            for (n = s(e[g]), i = 0, t = e[m]; i < t[v]; i++) 'type' != (o = t[i]).name && n[I](o.name, o.value);
+                            return n.text = e.text, n
+                        }(n)).src && !t[b]('async') ? (t.onload = t.onerror = e, E(t)) : (E(t), e()))
+                    }()
+                })
+            }
+
+            (r = function (e, n) {
+                u ? t(e, n) : o.push(e, n)
+            }).all = x, r.js = function (n, t, e, o) {
+                r(function (e) {
+                    (e = s(c, t, o)).src = n, E(e)
+                }, e)
+            }, r.css = function (n, t, e, o) {
+                r(function (e) {
+                    (e = s('LINK', t, o)).rel = 'stylesheet', e.href = n, E(e)
+                }, e)
+            }, r.dom = function (e, n, u, a, s) {
+                r(function (n, t, o, i, r) {
+                    function c(e) {
+                        if (!a || !1 !== a(e)) {
+                            for (t = 0, n = e[m]; t < n[v]; t++) (o = h.exec(n[t].name)) && e[I](o[1], n[t].value);
+                            N('source', e)[y](c), (e.load || d)(), u && (e.className += ' ' + u)
+                        }
+                    }
+
+                    l in f && (i = new f[l](function (e) {
+                        e[y](function (e, n) {
+                            e.isIntersecting && (n = e.target) && (i.unobserve(n), c(n))
+                        })
+                    }, s), r = i.observe.bind(i)), N(e || '[data-src]')[y](function (e) {
+                        e[b](p) || (e[I](p, e[g]), (r || c)(e))
+                    })
+                }, n)
+            }, f.addEventListener('on' + e in f ? e : 'load', function () {
+                for (u = !x(); o[0];) r(o.shift(), o.shift())
+            }), f.Defer = r
+        }(this, document, setTimeout);
+    </script>
+
+    <meta name='robots' content='noindex, follow' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v20.3 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:title" content="404 - Page Not Found" />
+	<meta property="og:site_name" content="Yogapedia" />
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//l.getsitecontrol.com' />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.yogapedia.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.7.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='stylesheet' id='theme-main-1-css' href='https://www.yogapedia.com/wp-content/themes/starter-theme/dist/css/sitestyles.css?ver=2.2' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.yogapedia.com/wp-includes/css/dist/block-library/style.min.css?ver=6.7.2' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<script type="text/javascript" id="breeze-prefetch-js-extra">
+/* <![CDATA[ */
+var breeze_prefetch = {"local_url":"https:\/\/www.yogapedia.com","ignore_remote_prefetch":"1","ignore_list":["\/wp-admin\/"]};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.yogapedia.com/wp-content/plugins/breeze/assets/js/js-front-end/breeze-prefetch-links.min.js?ver=2.0.29" id="breeze-prefetch-js"></script>
+<script type="text/javascript" src="https://www.yogapedia.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" id="jquery-core-js-after">
+/* <![CDATA[ */
+window.$ = jQuery;
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.yogapedia.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://www.yogapedia.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.yogapedia.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.7.2" />
+	<style type="text/css">
+		.class_gwp_my_template_file {
+			cursor:help;
+		}
+	</style>
+			<style type="text/css" id="wp-custom-css">
+			.card .jan-card-image-wrapper a img {
+    aspect-ratio: 290/192;
+}		</style>
+		
+</head>
+<body>
+<!--//Google Tag Manager Body-->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+
+<script>
+    var menuIcon = "https://www.yogapedia.com/wp-content/themes/starter-theme/resource/images/nav/menu.svg";
+    var closeIcon = "https://www.yogapedia.com/wp-content/themes/starter-theme/resource/images/nav/close.svg";
+</script>
+<nav id="header-wrapper" class="navbar navbar-expand-lg navbar-light sticky-top bg-white">
+    <div class="container">
+        <button class="navbar-toggler" type="button"><img class="navbar-toggler__icon"
+                                                          src="https://www.yogapedia.com/wp-content/themes/starter-theme/resource/images/nav/menu.svg"
+                                                          alt="X"
+                                                          width="25" height="16"/></button>
+        <a class="navbar-brand" href="/"><img class="d-inline-block align-top"
+                                              src="https://www.yogapedia.com/wp-content/themes/starter-theme/resource/images/logo.png"
+                                              alt="Yogapedia Logo" width="190"
+                                              height="48"/></a>
+        <div class="collapse navbar-collapse mr-md-auto" style="display: none;">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link text-secondary" href="https://shop.yogapedia.com/?utm_source=yogapedia&utm_medium=nav" target="_blank" rel="noopener">Shop</a>
+                </li>
+                <!--Quizzes-->
+                <!--Start of Resources-->
+                <li class="nav-item dropdown dropdown-more">
+                    <a class="nav-link dropdown-toggle" id="resource-dropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Quizzes</a>
+                    <div class="dropdown-menu dropdown-menu-lg-right bg-dark jan-sub-nav more-menu" aria-labelledby="resource-dropdown">
+                        <a class="dropdown-item jan-sub-nav-item" href="https://shop.yogapedia.com/pages/dosha-quiz?utm_source=yogapedia&utm_medium=doshaquiznav" target="_blank" rel="noopener"><span class="jan-sub-nav-item__link">Dosha Quiz</span></a>
+                        <a class="dropdown-item jan-sub-nav-item" href="https://shop.yogapedia.com/pages/chakra-quiz?utm_source=yogapedia&utm_medium=chakraquiznav" target="_blank" rel="noopener"><span class="jan-sub-nav-item__link">Chakra Quiz</span></a>
+
+                    </div>
+                </li>
+                <!--End of Resources-->
+
+
+                <!--Start of Dictionary-->
+                <li class="nav-item d-block d-md-none"><a class="nav-link"
+                                                          href="https://www.yogapedia.com/dictionary">Dictionary</a>
+                </li>
+                <li class="nav-item active dropdown dropdown-fullwidth dropdown-screen d-none d-md-inline-block">
+                    <a class="nav-link dropdown-toggle" id="dictionaryDropdown"
+                       href="https://www.yogapedia.com/dictionary"
+                       role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dictionary</a>
+                    <div class="dropdown-menu bg-dark" aria-labelledby="dictionaryDropdown">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-6 col-md-12 d-xl-block d-lg-block d-sm-none d-md-none d-none">
+                                    <div class="jan-term">
+                                        <div class="jan-term__subheading font-header mb-2">Term of the Day</div>
+                                        
+                                                <div class="jan-term__heading font-header"><a
+                                                            href="https://www.yogapedia.com/definition/7508/anusara"
+                                                            class="text-primary">Anusara</a>
+                                                </div>
+                                                <p class="jan-term__content">
+                                                    Anusara is a Sanskrit term derived from the root words, anu, meaning &quot;with,&quot; and sara, meaning &quot;flow.&quot; Therefore, anusara may be translated as &quot;flowing with grace&quot; or &quot;natural state.&quot; It is also the name of a style of Hatha yoga that was created by John…                                                    <a class="jan-term__read-more" href="https://www.yogapedia.com/definition/7508/anusara">View
+                                                        Full Term</a>
+                                                </p>
+                                                                                    </div>
+                                </div>
+                                <div class="col-lg-6 col-md-12">
+                                    <p class="jan-trending_subheading h6-styles">Trending Terms</p>
+
+                                    <div class="row">
+                                        
+                                        <div class="col-lg-6 col-md-12">
+                                            <ul class="jan-sub-nav list-group list-group-flush">
+                                                                                                    <li class="list-group-item jan-sub-nav-item">
+                                                        <a class="jan-sub-nav-item__link"
+                                                           href="https://www.yogapedia.com/definition/10744/tatvamasi">
+                                                            Tatvamasi                                                        </a>
+                                                    </li>
+                                                                                                    <li class="list-group-item jan-sub-nav-item">
+                                                        <a class="jan-sub-nav-item__link"
+                                                           href="https://www.yogapedia.com/definition/8231/aham-brahmasmi">
+                                                            Aham Brahmasmi                                                        </a>
+                                                    </li>
+                                                                                                    <li class="list-group-item jan-sub-nav-item">
+                                                        <a class="jan-sub-nav-item__link"
+                                                           href="https://www.yogapedia.com/definition/10049/om-dum-durgayei-namaha">
+                                                            Om Dum Durgayei Namaha                                                        </a>
+                                                    </li>
+                                                                                                    <li class="list-group-item jan-sub-nav-item">
+                                                        <a class="jan-sub-nav-item__link"
+                                                           href="https://www.yogapedia.com/definition/9413/om-shree-matre-namah">
+                                                            Om Shree Matre Namah                                                        </a>
+                                                    </li>
+                                                                                            </ul>
+                                        </div>
+
+                                        <div class="col-lg-6 col-md-12">
+                                            <ul class="jan-sub-nav list-group list-group-flush">
+                                                                                                    <li class="list-group-item jan-sub-nav-item">
+                                                        <a class="jan-sub-nav-item__link"
+                                                           href="https://www.yogapedia.com/definition/9023/om-gam-ganapataye-namaha">
+                                                            Om Gam Ganapataye Namaha                                                        </a>
+                                                    </li>
+                                                                                                    <li class="list-group-item jan-sub-nav-item">
+                                                        <a class="jan-sub-nav-item__link"
+                                                           href="https://www.yogapedia.com/definition/5503/surya-namaskar">
+                                                            Surya Namaskar                                                        </a>
+                                                    </li>
+                                                                                                    <li class="list-group-item jan-sub-nav-item">
+                                                        <a class="jan-sub-nav-item__link"
+                                                           href="https://www.yogapedia.com/definition/5070/anasakti-yoga">
+                                                            Anasakti Yoga                                                        </a>
+                                                    </li>
+                                                                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="mt-3 d-xl-block d-lg-block d-sm-none d-md-none d-none w-100">
+                                <p class="h6-styles">Yogapedia Terms</p>
+                                <div class="d-flex">
+                                                                            <div class="flex-fill"><a
+                                                    href="https://www.yogapedia.com/yoga-terms/1">#</a>
+                                        </div>
+                                                                            <div class="flex-fill"><a
+                                                    href="https://www.yogapedia.com/yoga-terms/a">A</a>
+                                        </div>
+                                                                            <div class="flex-fill"><a
+                                                    href="https://www.yogapedia.com/yoga-terms/b">B</a>
+                                        </div>
+                                                                            <div class="flex-fill"><a
+                                                    href="https://www.yogapedia.com/yoga-terms/c">C</a>
+                                        </div>
+                                                                            <div class="flex-fill"><a
+                                                    href="https://www.yogapedia.com/yoga-terms/d">D</a>
+                                        </div>
+                                                                            <div class="flex-fill"><a
+                                                    href="https://www.yogapedia.com/yoga-terms/e">E</a>
+                                        </div>
+                                                                            <div class="flex-fill"><a
+                                                    href="https://www.yogapedia.com/yoga-terms/f">F</a>
+                                        </div>
+                                                                            <div class="flex-fill"><a
+                                                    href="https://www.yogapedia.com/yoga-terms/g">G</a>
+                                        </div>
+                                                                            <div class="flex-fill"><a
+                                                    href="https://www.yogapedia.com/yoga-terms/h">H</a>
+                                        </div>
+                                                                            <div class="flex-fill"><a
+                                                    href="https://www.yogapedia.com/yoga-terms/i">I</a>
+                                        </div>
+                                                                            <div class="flex-fill"><a
+                                                    href="https://www.yogapedia.com/yoga-terms/j">J</a>
+                                        </div>
+                                                                            <div class="flex-fill"><a
+                                                    href="https://www.yogapedia.com/yoga-terms/k">K</a>
+                                        </div>
+                                                                            <div class="flex-fill"><a
+                                                    href="https://www.yogapedia.com/yoga-terms/l">L</a>
+                                        </div>
+                                                                            <div class="flex-fill"><a
+                                                    href="https://www.yogapedia.com/yoga-terms/m">M</a>
+                                        </div>
+                                                                            <div class="flex-fill"><a
+                                                    href="https://www.yogapedia.com/yoga-terms/n">N</a>
+                                        </div>
+                                                                            <div class="flex-fill"><a
+                                                    href="https://www.yogapedia.com/yoga-terms/o">O</a>
+                                        </div>
+                                                                            <div class="flex-fill"><a
+                                                    href="https://www.yogapedia.com/yoga-terms/p">P</a>
+                                        </div>
+                                                                            <div class="flex-fill"><a
+                                                    href="https://www.yogapedia.com/yoga-terms/q">Q</a>
+                                        </div>
+                                                                            <div class="flex-fill"><a
+                                                    href="https://www.yogapedia.com/yoga-terms/r">R</a>
+                                        </div>
+                                                                            <div class="flex-fill"><a
+                                                    href="https://www.yogapedia.com/yoga-terms/s">S</a>
+                                        </div>
+                                                                            <div class="flex-fill"><a
+                                                    href="https://www.yogapedia.com/yoga-terms/t">T</a>
+                                        </div>
+                                                                            <div class="flex-fill"><a
+                                                    href="https://www.yogapedia.com/yoga-terms/u">U</a>
+                                        </div>
+                                                                            <div class="flex-fill"><a
+                                                    href="https://www.yogapedia.com/yoga-terms/v">V</a>
+                                        </div>
+                                                                            <div class="flex-fill"><a
+                                                    href="https://www.yogapedia.com/yoga-terms/w">W</a>
+                                        </div>
+                                                                            <div class="flex-fill"><a
+                                                    href="https://www.yogapedia.com/yoga-terms/x">X</a>
+                                        </div>
+                                                                            <div class="flex-fill"><a
+                                                    href="https://www.yogapedia.com/yoga-terms/y">Y</a>
+                                        </div>
+                                                                            <div class="flex-fill"><a
+                                                    href="https://www.yogapedia.com/yoga-terms/z">Z</a>
+                                        </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <!--End of Dictionary-->
+
+
+                <!--Start of Topics-->
+                                <li class="nav-item d-block d-md-none dropdown dropdown-more">
+                    <a class="nav-link dropdown-toggle" id="topics-dropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Topics</a>
+                    <div class="dropdown-menu dropdown-menu-lg-right bg-dark jan-sub-nav more-menu" aria-labelledby="topics-dropdown">
+                                                                                    <a class="dropdown-item jan-sub-nav-item" href="https://www.yogapedia.com/topic/280/energy"><span class="jan-sub-nav-item__link">Energy</span></a>
+                                                            <a class="dropdown-item jan-sub-nav-item" href="https://www.yogapedia.com/topic/269/love"><span class="jan-sub-nav-item__link">Love</span></a>
+                                                            <a class="dropdown-item jan-sub-nav-item" href="https://www.yogapedia.com/topic/3/chakra"><span class="jan-sub-nav-item__link">Chakra</span></a>
+                                                            <a class="dropdown-item jan-sub-nav-item" href="https://www.yogapedia.com/topic/234/mindfulness"><span class="jan-sub-nav-item__link">Mindfulness</span></a>
+                                                            <a class="dropdown-item jan-sub-nav-item" href="https://www.yogapedia.com/topic/245/purpose"><span class="jan-sub-nav-item__link">Purpose</span></a>
+                                                            <a class="dropdown-item jan-sub-nav-item" href="https://www.yogapedia.com/topic/244/spiritual-experiences"><span class="jan-sub-nav-item__link">Spiritual Experiences</span></a>
+                                                                    <li class="nav-item dropdown dropdown-fullwidth d-none d-md-inline-block">
+                    <a class="nav-link dropdown-toggle" id="topicsDropdown"
+                       href="https://www.yogapedia.com/article/topics"
+                       role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Topics</a>
+                    <div class="dropdown-menu bg-dark" aria-labelledby="topicsDropdown">
+                        <div id="nav-article-links" class="container">
+                                                        <div class="row w-100">
+                                <div class="col-lg-4 col-xl-2 border-right jan-no-border--md">
+                                    <div class="nav flex-column nav-pills jan-nav-pills-bold jan-sub-nav-item">
+                                                                                    <a class="nav-link active jan-sub-nav-item"
+                                               data-target="v-pills-0"
+                                               href="https://www.yogapedia.com/topic/280/energy">
+                                                <span class="jan-sub-nav-item__link">Energy</span>
+                                            </a>
+                                                                                    <a class="nav-link  jan-sub-nav-item"
+                                               data-target="v-pills-1"
+                                               href="https://www.yogapedia.com/topic/269/love">
+                                                <span class="jan-sub-nav-item__link">Love</span>
+                                            </a>
+                                                                                    <a class="nav-link  jan-sub-nav-item"
+                                               data-target="v-pills-2"
+                                               href="https://www.yogapedia.com/topic/3/chakra">
+                                                <span class="jan-sub-nav-item__link">Chakra</span>
+                                            </a>
+                                                                                    <a class="nav-link  jan-sub-nav-item"
+                                               data-target="v-pills-3"
+                                               href="https://www.yogapedia.com/topic/234/mindfulness">
+                                                <span class="jan-sub-nav-item__link">Mindfulness</span>
+                                            </a>
+                                                                                    <a class="nav-link  jan-sub-nav-item"
+                                               data-target="v-pills-4"
+                                               href="https://www.yogapedia.com/topic/245/purpose">
+                                                <span class="jan-sub-nav-item__link">Purpose</span>
+                                            </a>
+                                                                                    <a class="nav-link  jan-sub-nav-item"
+                                               data-target="v-pills-5"
+                                               href="https://www.yogapedia.com/topic/244/spiritual-experiences">
+                                                <span class="jan-sub-nav-item__link">Spiritual Experiences</span>
+                                            </a>
+                                                                            </div>
+                                </div>
+                                <div class="col-lg-8 col-xl-10 d-none d-sm-none d-md-none d-lg-block">
+                                    <div class="tab-content d-flex align-items-center d-xl-flex d-lg-flex">
+                                                                                    <div class="tab-pane show active" id="v-pills-0"
+                                                 role="tabpanel">
+                                                <div class="row">
+                                                                                                                <div class="col-sm-6 col-xl-3 mb-sm-3 text-center">
+                                                                <a href="https://www.yogapedia.com/experience-the-5-koshas-through-yoga-nidra/2/12157"
+                                                                   class="mb-3 d-block img-content-visibility-auto">
+                                                                    <img width="230" height="132" src="https://www.yogapedia.com/wp-content/uploads/2023/11/valentin-salja-efhlw8uuuo0-unsplash-230x132.jpg" class="lazyload img-fluid w-100 wp-post-image" alt="" decoding="async" srcset="https://www.yogapedia.com/wp-content/uploads/2023/11/valentin-salja-efhlw8uuuo0-unsplash-230x132.jpg 230w, https://www.yogapedia.com/wp-content/uploads/2023/11/valentin-salja-efhlw8uuuo0-unsplash-350x200.jpg 350w" sizes="(max-width: 230px) 100vw, 230px" />                                                                </a>
+                                                                <a href="https://www.yogapedia.com/experience-the-5-koshas-through-yoga-nidra/2/12157">Experience the 5 Koshas Through Yoga Nidra</a>
+                                                            </div>
+                                                                                                                        <div class="col-sm-6 col-xl-3 mb-sm-3 text-center">
+                                                                <a href="https://www.yogapedia.com/the-best-of-the-mudras/2/7371"
+                                                                   class="mb-3 d-block img-content-visibility-auto">
+                                                                    <img width="230" height="132" src="https://www.yogapedia.com/wp-content/uploads/2023/11/gyan-mudra-close-up-230x132.jpg" class="lazyload img-fluid w-100 wp-post-image" alt="" decoding="async" srcset="https://www.yogapedia.com/wp-content/uploads/2023/11/gyan-mudra-close-up-230x132.jpg 230w, https://www.yogapedia.com/wp-content/uploads/2023/11/gyan-mudra-close-up-350x200.jpg 350w" sizes="(max-width: 230px) 100vw, 230px" />                                                                </a>
+                                                                <a href="https://www.yogapedia.com/the-best-of-the-mudras/2/7371">Top 10 Mudras for Your Yoga Practice</a>
+                                                            </div>
+                                                                                                                        <div class="col-sm-6 col-xl-3 mb-sm-3 text-center">
+                                                                <a href="https://www.yogapedia.com/4-steps-to-making-your-shakti-shimmer/2/6569"
+                                                                   class="mb-3 d-block img-content-visibility-auto">
+                                                                    <img width="230" height="132" src="https://www.yogapedia.com/wp-content/uploads/2023/11/woman-smiling-in-front-of-blue-lights-230x132.jpg" class="lazyload img-fluid w-100 wp-post-image" alt="" decoding="async" srcset="https://www.yogapedia.com/wp-content/uploads/2023/11/woman-smiling-in-front-of-blue-lights-230x132.jpg 230w, https://www.yogapedia.com/wp-content/uploads/2023/11/woman-smiling-in-front-of-blue-lights-350x200.jpg 350w" sizes="(max-width: 230px) 100vw, 230px" />                                                                </a>
+                                                                <a href="https://www.yogapedia.com/4-steps-to-making-your-shakti-shimmer/2/6569">4 Steps to Making Your Shakti Shimmer</a>
+                                                            </div>
+                                                                                                                        <div class="col-sm-6 col-xl-3 mb-sm-3 text-center">
+                                                                <a href="https://www.yogapedia.com/2/6017/yoga-practice/best-time-of-day-to-practice-yoga"
+                                                                   class="mb-3 d-block img-content-visibility-auto">
+                                                                    <img width="230" height="132" src="https://www.yogapedia.com/wp-content/uploads/2023/11/woman-doing-side-crow-yoga-pose-230x132.jpg" class="lazyload img-fluid w-100 wp-post-image" alt="" decoding="async" srcset="https://www.yogapedia.com/wp-content/uploads/2023/11/woman-doing-side-crow-yoga-pose-230x132.jpg 230w, https://www.yogapedia.com/wp-content/uploads/2023/11/woman-doing-side-crow-yoga-pose-350x200.jpg 350w" sizes="(max-width: 230px) 100vw, 230px" />                                                                </a>
+                                                                <a href="https://www.yogapedia.com/2/6017/yoga-practice/best-time-of-day-to-practice-yoga">Discover the Best Time of Day for Your Yoga Practice</a>
+                                                            </div>
+                                                                                                            </div>
+                                            </div>
+                                                                                    <div class="tab-pane " id="v-pills-1"
+                                                 role="tabpanel">
+                                                <div class="row">
+                                                                                                                <div class="col-sm-6 col-xl-3 mb-sm-3 text-center">
+                                                                <a href="https://www.yogapedia.com/2/6772/lineage/sanskrit/why-we-say-namaste"
+                                                                   class="mb-3 d-block img-content-visibility-auto">
+                                                                    <img width="230" height="132" src="https://www.yogapedia.com/wp-content/uploads/2023/11/madison-lavern-4gcqrf3-f2i-unsplash-230x132.jpg" class="lazyload img-fluid w-100 wp-post-image" alt="" decoding="async" srcset="https://www.yogapedia.com/wp-content/uploads/2023/11/madison-lavern-4gcqrf3-f2i-unsplash-230x132.jpg 230w, https://www.yogapedia.com/wp-content/uploads/2023/11/madison-lavern-4gcqrf3-f2i-unsplash-350x200.jpg 350w" sizes="(max-width: 230px) 100vw, 230px" />                                                                </a>
+                                                                <a href="https://www.yogapedia.com/2/6772/lineage/sanskrit/why-we-say-namaste">Why We Say Namaste</a>
+                                                            </div>
+                                                                                                                        <div class="col-sm-6 col-xl-3 mb-sm-3 text-center">
+                                                                <a href="https://www.yogapedia.com/2/9423/meditation/mantra/baba-nam-kevalam-mantra"
+                                                                   class="mb-3 d-block img-content-visibility-auto">
+                                                                    <img width="230" height="132" src="https://www.yogapedia.com/wp-content/uploads/2023/11/mariam-soliman-230x132.jpg" class="lazyload img-fluid w-100 wp-post-image" alt="" decoding="async" srcset="https://www.yogapedia.com/wp-content/uploads/2023/11/mariam-soliman-230x132.jpg 230w, https://www.yogapedia.com/wp-content/uploads/2023/11/mariam-soliman-350x200.jpg 350w" sizes="(max-width: 230px) 100vw, 230px" />                                                                </a>
+                                                                <a href="https://www.yogapedia.com/2/9423/meditation/mantra/baba-nam-kevalam-mantra">Baba Nam Kevalam: The Meaning and Benefits of This Beloved Sanskrit Mantra</a>
+                                                            </div>
+                                                                                                                        <div class="col-sm-6 col-xl-3 mb-sm-3 text-center">
+                                                                <a href="https://www.yogapedia.com/a-simple-act-of-loving-kindness-practicing-metta-bhavana/2/12145"
+                                                                   class="mb-3 d-block img-content-visibility-auto">
+                                                                    <img width="230" height="132" src="https://www.yogapedia.com/wp-content/uploads/2023/11/person-holding-a-heart-shaped-leaf-in-their-hands-in-the-woods-230x132.jpg" class="lazyload img-fluid w-100 wp-post-image" alt="" decoding="async" srcset="https://www.yogapedia.com/wp-content/uploads/2023/11/person-holding-a-heart-shaped-leaf-in-their-hands-in-the-woods-230x132.jpg 230w, https://www.yogapedia.com/wp-content/uploads/2023/11/person-holding-a-heart-shaped-leaf-in-their-hands-in-the-woods-350x200.jpg 350w" sizes="(max-width: 230px) 100vw, 230px" />                                                                </a>
+                                                                <a href="https://www.yogapedia.com/a-simple-act-of-loving-kindness-practicing-metta-bhavana/2/12145">A Simple Act of Loving-Kindness: Practicing Metta-Bhavana</a>
+                                                            </div>
+                                                                                                                        <div class="col-sm-6 col-xl-3 mb-sm-3 text-center">
+                                                                <a href="https://www.yogapedia.com/2/8849/meditation/mantra/ong-so-hung-a-heart-opening-mantra"
+                                                                   class="mb-3 d-block img-content-visibility-auto">
+                                                                    <img width="230" height="132" src="https://www.yogapedia.com/wp-content/uploads/2023/11/female-hands-crossed-over-chest-230x132.jpg" class="lazyload img-fluid w-100 wp-post-image" alt="" decoding="async" srcset="https://www.yogapedia.com/wp-content/uploads/2023/11/female-hands-crossed-over-chest-230x132.jpg 230w, https://www.yogapedia.com/wp-content/uploads/2023/11/female-hands-crossed-over-chest-350x200.jpg 350w" sizes="(max-width: 230px) 100vw, 230px" />                                                                </a>
+                                                                <a href="https://www.yogapedia.com/2/8849/meditation/mantra/ong-so-hung-a-heart-opening-mantra">Ong So Hung: A Heart-Opening Mantra</a>
+                                                            </div>
+                                                                                                            </div>
+                                            </div>
+                                                                                    <div class="tab-pane " id="v-pills-2"
+                                                 role="tabpanel">
+                                                <div class="row">
+                                                                                                                <div class="col-sm-6 col-xl-3 mb-sm-3 text-center">
+                                                                <a href="https://www.yogapedia.com/balancing-visuddha-how-to-realign-your-throat-chakra/2/11506"
+                                                                   class="mb-3 d-block img-content-visibility-auto">
+                                                                    <img width="230" height="132" src="https://www.yogapedia.com/wp-content/uploads/2023/11/woman-leaning-head-back-and-smiling-with-hand-on-her-neck-230x132.jpg" class="lazyload img-fluid w-100 wp-post-image" alt="" decoding="async" srcset="https://www.yogapedia.com/wp-content/uploads/2023/11/woman-leaning-head-back-and-smiling-with-hand-on-her-neck-230x132.jpg 230w, https://www.yogapedia.com/wp-content/uploads/2023/11/woman-leaning-head-back-and-smiling-with-hand-on-her-neck-350x200.jpg 350w" sizes="(max-width: 230px) 100vw, 230px" />                                                                </a>
+                                                                <a href="https://www.yogapedia.com/balancing-visuddha-how-to-realign-your-throat-chakra/2/11506">Balancing Visuddha: How to Realign Your Throat Chakra</a>
+                                                            </div>
+                                                                                                                        <div class="col-sm-6 col-xl-3 mb-sm-3 text-center">
+                                                                <a href="https://www.yogapedia.com/balancing-muladhara-how-to-realign-your-root-chakra/2/12056"
+                                                                   class="mb-3 d-block img-content-visibility-auto">
+                                                                    <img width="230" height="132" src="https://www.yogapedia.com/wp-content/uploads/2023/11/allef-vinicius-m11bun_znao-unsplash-230x132.jpg" class="lazyload img-fluid w-100 wp-post-image" alt="" decoding="async" srcset="https://www.yogapedia.com/wp-content/uploads/2023/11/allef-vinicius-m11bun_znao-unsplash-230x132.jpg 230w, https://www.yogapedia.com/wp-content/uploads/2023/11/allef-vinicius-m11bun_znao-unsplash-350x200.jpg 350w" sizes="(max-width: 230px) 100vw, 230px" />                                                                </a>
+                                                                <a href="https://www.yogapedia.com/balancing-muladhara-how-to-realign-your-root-chakra/2/12056">Balancing Muladhara: How to Realign Your Root Chakra</a>
+                                                            </div>
+                                                                                                                        <div class="col-sm-6 col-xl-3 mb-sm-3 text-center">
+                                                                <a href="https://www.yogapedia.com/how-the-pandemic-may-have-blocked-your-chakras-and-how-to-unblock-them/2/12060"
+                                                                   class="mb-3 d-block img-content-visibility-auto">
+                                                                    <img width="230" height="132" src="https://www.yogapedia.com/wp-content/uploads/2023/11/bundle1-230x132.png" class="lazyload img-fluid w-100 wp-post-image" alt="" decoding="async" srcset="https://www.yogapedia.com/wp-content/uploads/2023/11/bundle1-230x132.png 230w, https://www.yogapedia.com/wp-content/uploads/2023/11/bundle1-350x200.png 350w" sizes="(max-width: 230px) 100vw, 230px" />                                                                </a>
+                                                                <a href="https://www.yogapedia.com/how-the-pandemic-may-have-blocked-your-chakras-and-how-to-unblock-them/2/12060">How the Pandemic May Have Blocked Your Chakras (And How to Unblock Them)</a>
+                                                            </div>
+                                                                                                                        <div class="col-sm-6 col-xl-3 mb-sm-3 text-center">
+                                                                <a href="https://www.yogapedia.com/the-lost-art-of-concentration/2/12022"
+                                                                   class="mb-3 d-block img-content-visibility-auto">
+                                                                    <img width="230" height="132" src="https://www.yogapedia.com/wp-content/uploads/2023/11/freshh-connection-p948qhwxlu-unsplash-230x132.jpg" class="lazyload img-fluid w-100 wp-post-image" alt="" decoding="async" srcset="https://www.yogapedia.com/wp-content/uploads/2023/11/freshh-connection-p948qhwxlu-unsplash-230x132.jpg 230w, https://www.yogapedia.com/wp-content/uploads/2023/11/freshh-connection-p948qhwxlu-unsplash-350x200.jpg 350w" sizes="(max-width: 230px) 100vw, 230px" />                                                                </a>
+                                                                <a href="https://www.yogapedia.com/the-lost-art-of-concentration/2/12022">The Lost Art of Concentration</a>
+                                                            </div>
+                                                                                                            </div>
+                                            </div>
+                                                                                    <div class="tab-pane " id="v-pills-3"
+                                                 role="tabpanel">
+                                                <div class="row">
+                                                                                                                <div class="col-sm-6 col-xl-3 mb-sm-3 text-center">
+                                                                <a href="https://www.yogapedia.com/2/6017/yoga-practice/best-time-of-day-to-practice-yoga"
+                                                                   class="mb-3 d-block img-content-visibility-auto">
+                                                                    <img width="230" height="132" src="https://www.yogapedia.com/wp-content/uploads/2023/11/woman-doing-side-crow-yoga-pose-230x132.jpg" class="lazyload img-fluid w-100 wp-post-image" alt="" decoding="async" srcset="https://www.yogapedia.com/wp-content/uploads/2023/11/woman-doing-side-crow-yoga-pose-230x132.jpg 230w, https://www.yogapedia.com/wp-content/uploads/2023/11/woman-doing-side-crow-yoga-pose-350x200.jpg 350w" sizes="(max-width: 230px) 100vw, 230px" />                                                                </a>
+                                                                <a href="https://www.yogapedia.com/2/6017/yoga-practice/best-time-of-day-to-practice-yoga">Discover the Best Time of Day for Your Yoga Practice</a>
+                                                            </div>
+                                                                                                                        <div class="col-sm-6 col-xl-3 mb-sm-3 text-center">
+                                                                <a href="https://www.yogapedia.com/2/6906/yoga-practice/yoga-types/yin-yoga-theres-power-in-surrender"
+                                                                   class="mb-3 d-block img-content-visibility-auto">
+                                                                    <img width="230" height="132" src="https://www.yogapedia.com/wp-content/uploads/2023/11/young-woman-in-paschimottanasana-pose-230x132.jpg" class="lazyload img-fluid w-100 wp-post-image" alt="" decoding="async" srcset="https://www.yogapedia.com/wp-content/uploads/2023/11/young-woman-in-paschimottanasana-pose-230x132.jpg 230w, https://www.yogapedia.com/wp-content/uploads/2023/11/young-woman-in-paschimottanasana-pose-350x200.jpg 350w" sizes="(max-width: 230px) 100vw, 230px" />                                                                </a>
+                                                                <a href="https://www.yogapedia.com/2/6906/yoga-practice/yoga-types/yin-yoga-theres-power-in-surrender">Yin Yoga: 4 Benefits of Surrendering to Your Yoga Mat</a>
+                                                            </div>
+                                                                                                                        <div class="col-sm-6 col-xl-3 mb-sm-3 text-center">
+                                                                <a href="https://www.yogapedia.com/2/8997/asana/vinyasa/the-power-of-vinyasa"
+                                                                   class="mb-3 d-block img-content-visibility-auto">
+                                                                    <img width="230" height="132" src="https://www.yogapedia.com/wp-content/uploads/2023/11/woman-practicing-chaturanga-in-a-yoga-studio-230x132.jpg" class="lazyload img-fluid w-100 wp-post-image" alt="" decoding="async" srcset="https://www.yogapedia.com/wp-content/uploads/2023/11/woman-practicing-chaturanga-in-a-yoga-studio-230x132.jpg 230w, https://www.yogapedia.com/wp-content/uploads/2023/11/woman-practicing-chaturanga-in-a-yoga-studio-350x200.jpg 350w" sizes="(max-width: 230px) 100vw, 230px" />                                                                </a>
+                                                                <a href="https://www.yogapedia.com/2/8997/asana/vinyasa/the-power-of-vinyasa">The Power of Vinyasa</a>
+                                                            </div>
+                                                                                                                        <div class="col-sm-6 col-xl-3 mb-sm-3 text-center">
+                                                                <a href="https://www.yogapedia.com/celebrate-earth-day-by-doing-nature-yoga/2/12064"
+                                                                   class="mb-3 d-block img-content-visibility-auto">
+                                                                    <img width="230" height="132" src="https://www.yogapedia.com/wp-content/uploads/2023/11/madison-lavern-2qu4hq1ooxy-unsplash-230x132.jpg" class="lazyload img-fluid w-100 wp-post-image" alt="" decoding="async" srcset="https://www.yogapedia.com/wp-content/uploads/2023/11/madison-lavern-2qu4hq1ooxy-unsplash-230x132.jpg 230w, https://www.yogapedia.com/wp-content/uploads/2023/11/madison-lavern-2qu4hq1ooxy-unsplash-350x200.jpg 350w" sizes="(max-width: 230px) 100vw, 230px" />                                                                </a>
+                                                                <a href="https://www.yogapedia.com/celebrate-earth-day-by-doing-nature-yoga/2/12064">Celebrate Earth Day by Doing Nature Yoga</a>
+                                                            </div>
+                                                                                                            </div>
+                                            </div>
+                                                                                    <div class="tab-pane " id="v-pills-4"
+                                                 role="tabpanel">
+                                                <div class="row">
+                                                                                                                <div class="col-sm-6 col-xl-3 mb-sm-3 text-center">
+                                                                <a href="https://www.yogapedia.com/the-relationship-between-yin-yoga-and-the-meridians/2/12091"
+                                                                   class="mb-3 d-block img-content-visibility-auto">
+                                                                    <img width="230" height="132" src="https://www.yogapedia.com/wp-content/uploads/2023/11/woman-doing-yoga-childs-pose-230x132.jpg" class="lazyload img-fluid w-100 wp-post-image" alt="" decoding="async" srcset="https://www.yogapedia.com/wp-content/uploads/2023/11/woman-doing-yoga-childs-pose-230x132.jpg 230w, https://www.yogapedia.com/wp-content/uploads/2023/11/woman-doing-yoga-childs-pose-350x200.jpg 350w" sizes="(max-width: 230px) 100vw, 230px" />                                                                </a>
+                                                                <a href="https://www.yogapedia.com/the-relationship-between-yin-yoga-and-the-meridians/2/12091">The Relationship Between Yin Yoga and the Meridians</a>
+                                                            </div>
+                                                                                                                        <div class="col-sm-6 col-xl-3 mb-sm-3 text-center">
+                                                                <a href="https://www.yogapedia.com/how-online-yoga-can-change-the-world/2/12058"
+                                                                   class="mb-3 d-block img-content-visibility-auto">
+                                                                    <img width="230" height="132" src="https://www.yogapedia.com/wp-content/uploads/2023/11/istock-1070647194-230x132.jpg" class="lazyload img-fluid w-100 wp-post-image" alt="" decoding="async" srcset="https://www.yogapedia.com/wp-content/uploads/2023/11/istock-1070647194-230x132.jpg 230w, https://www.yogapedia.com/wp-content/uploads/2023/11/istock-1070647194-350x200.jpg 350w" sizes="(max-width: 230px) 100vw, 230px" />                                                                </a>
+                                                                <a href="https://www.yogapedia.com/how-online-yoga-can-change-the-world/2/12058">How Online Yoga Can Change the World</a>
+                                                            </div>
+                                                                                                                        <div class="col-sm-6 col-xl-3 mb-sm-3 text-center">
+                                                                <a href="https://www.yogapedia.com/three-yoga-asanas-to-welcome-new-light/2/12048"
+                                                                   class="mb-3 d-block img-content-visibility-auto">
+                                                                    <img width="230" height="132" src="https://www.yogapedia.com/wp-content/uploads/2023/11/avrielle-suleiman-gpvak9-cl6e-unsplash-230x132.jpg" class="lazyload img-fluid w-100 wp-post-image" alt="" decoding="async" srcset="https://www.yogapedia.com/wp-content/uploads/2023/11/avrielle-suleiman-gpvak9-cl6e-unsplash-230x132.jpg 230w, https://www.yogapedia.com/wp-content/uploads/2023/11/avrielle-suleiman-gpvak9-cl6e-unsplash-350x200.jpg 350w" sizes="(max-width: 230px) 100vw, 230px" />                                                                </a>
+                                                                <a href="https://www.yogapedia.com/three-yoga-asanas-to-welcome-new-light/2/12048">Three Yoga Asanas to Welcome New Light</a>
+                                                            </div>
+                                                                                                                        <div class="col-sm-6 col-xl-3 mb-sm-3 text-center">
+                                                                <a href="https://www.yogapedia.com/how-to-choose-your-first-yoga-teacher-training/2/12015"
+                                                                   class="mb-3 d-block img-content-visibility-auto">
+                                                                    <img width="230" height="132" src="https://www.yogapedia.com/wp-content/uploads/2023/11/istock-1162518500-230x132.jpg" class="lazyload img-fluid w-100 wp-post-image" alt="" decoding="async" srcset="https://www.yogapedia.com/wp-content/uploads/2023/11/istock-1162518500-230x132.jpg 230w, https://www.yogapedia.com/wp-content/uploads/2023/11/istock-1162518500-350x200.jpg 350w" sizes="(max-width: 230px) 100vw, 230px" />                                                                </a>
+                                                                <a href="https://www.yogapedia.com/how-to-choose-your-first-yoga-teacher-training/2/12015">How to Choose Your First Yoga Teacher Training</a>
+                                                            </div>
+                                                                                                            </div>
+                                            </div>
+                                                                                    <div class="tab-pane " id="v-pills-5"
+                                                 role="tabpanel">
+                                                <div class="row">
+                                                                                                                <div class="col-sm-6 col-xl-3 mb-sm-3 text-center">
+                                                                <a href="https://www.yogapedia.com/experience-the-5-koshas-through-yoga-nidra/2/12157"
+                                                                   class="mb-3 d-block img-content-visibility-auto">
+                                                                    <img width="230" height="132" src="https://www.yogapedia.com/wp-content/uploads/2023/11/valentin-salja-efhlw8uuuo0-unsplash-230x132.jpg" class="lazyload img-fluid w-100 wp-post-image" alt="" decoding="async" srcset="https://www.yogapedia.com/wp-content/uploads/2023/11/valentin-salja-efhlw8uuuo0-unsplash-230x132.jpg 230w, https://www.yogapedia.com/wp-content/uploads/2023/11/valentin-salja-efhlw8uuuo0-unsplash-350x200.jpg 350w" sizes="(max-width: 230px) 100vw, 230px" />                                                                </a>
+                                                                <a href="https://www.yogapedia.com/experience-the-5-koshas-through-yoga-nidra/2/12157">Experience the 5 Koshas Through Yoga Nidra</a>
+                                                            </div>
+                                                                                                                        <div class="col-sm-6 col-xl-3 mb-sm-3 text-center">
+                                                                <a href="https://www.yogapedia.com/2/6010/meditation/om/the-5-benefits-of-chanting-om"
+                                                                   class="mb-3 d-block img-content-visibility-auto">
+                                                                    <img width="230" height="132" src="https://www.yogapedia.com/wp-content/uploads/2023/11/human-people-person-230x132.jpg" class="lazyload img-fluid w-100 wp-post-image" alt="" decoding="async" srcset="https://www.yogapedia.com/wp-content/uploads/2023/11/human-people-person-230x132.jpg 230w, https://www.yogapedia.com/wp-content/uploads/2023/11/human-people-person-350x200.jpg 350w" sizes="(max-width: 230px) 100vw, 230px" />                                                                </a>
+                                                                <a href="https://www.yogapedia.com/2/6010/meditation/om/the-5-benefits-of-chanting-om">5 Benefits of Chanting OM</a>
+                                                            </div>
+                                                                                                                        <div class="col-sm-6 col-xl-3 mb-sm-3 text-center">
+                                                                <a href="https://www.yogapedia.com/2/7216/lineage/philosophy/kriyas-kundalini-and-you"
+                                                                   class="mb-3 d-block img-content-visibility-auto">
+                                                                    <img width="230" height="132" src="https://www.yogapedia.com/wp-content/uploads/2023/11/woman-hands-in-mudra-like-in-the-palm-of-hands-at-sunset-on-the-lake-230x132.jpg" class="lazyload img-fluid w-100 wp-post-image" alt="" decoding="async" srcset="https://www.yogapedia.com/wp-content/uploads/2023/11/woman-hands-in-mudra-like-in-the-palm-of-hands-at-sunset-on-the-lake-230x132.jpg 230w, https://www.yogapedia.com/wp-content/uploads/2023/11/woman-hands-in-mudra-like-in-the-palm-of-hands-at-sunset-on-the-lake-350x200.jpg 350w" sizes="(max-width: 230px) 100vw, 230px" />                                                                </a>
+                                                                <a href="https://www.yogapedia.com/2/7216/lineage/philosophy/kriyas-kundalini-and-you">Understanding Kriyas and Kundalini</a>
+                                                            </div>
+                                                                                                                        <div class="col-sm-6 col-xl-3 mb-sm-3 text-center">
+                                                                <a href="https://www.yogapedia.com/the-gateway-of-pratyahara/2/12045"
+                                                                   class="mb-3 d-block img-content-visibility-auto">
+                                                                    <img width="230" height="132" src="https://www.yogapedia.com/wp-content/uploads/2023/11/nikola-knezevic-q3jcltectte-unsplash-230x132.jpg" class="lazyload img-fluid w-100 wp-post-image" alt="" decoding="async" srcset="https://www.yogapedia.com/wp-content/uploads/2023/11/nikola-knezevic-q3jcltectte-unsplash-230x132.jpg 230w, https://www.yogapedia.com/wp-content/uploads/2023/11/nikola-knezevic-q3jcltectte-unsplash-350x200.jpg 350w" sizes="(max-width: 230px) 100vw, 230px" />                                                                </a>
+                                                                <a href="https://www.yogapedia.com/the-gateway-of-pratyahara/2/12045">The Gateway of Pratyahara</a>
+                                                            </div>
+                                                                                                            </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+
+
+                                
+                            </div>
+                        </div>
+                </li>
+                <!--End of Topics-->
+
+                <li class="nav-item">
+                    <a class="nav-link" href="https://www.yogapedia.com/experts"><span class="jan-sub-nav-item__link">Q&amp;A</span></a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="https://www.yogapedia.com/yoga-poses">Poses</a>
+                </li>
+
+                <li class="nav-item">
+                     <a class="nav-link" href="https://www.yogapedia.com/downloads">Guides</a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="https://www.yogapedia.com/topic/478/yogapedia-podcast">Podcast</a>
+                </li>
+
+
+                <!--Start Search Button-->
+                <li class="nav-item dropdown d-none d-lg-block d-xl-block">
+                    <a class="nav-link js-show-jan-search-box"
+                       href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <img
+                                class="jan-search-icon"
+                                src="https://www.yogapedia.com/wp-content/themes/starter-theme/resource/images/nav/search.svg"
+                                alt="Search Icon" width="18"
+                                height="18"/>
+                    </a>
+                </li>
+                <!--End Search Button-->
+
+            </ul>
+            <div class="jan-navbar-nav-secondary ml-auto">
+                <ul class="navbar-nav">
+
+
+                    <!--Start of Follow Button-->
+                    <li class="nav-item dropdown dropdown-follow d-xl-block d-lg-block d-md-none d-sm-none d-none">
+                        <button class="btn btn-secondary btn-sm nav-link dropdown-toggle text-white mr-3"
+                                id="navbarDropdown" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
+                                aria-expanded="false">Follow
+                        </button>
+                        <div class="dropdown-menu dropdown-menu-lg-right jan-dropdown-follow bg-dark"
+                             aria-labelledby="navbarDropdown">
+                            <p class="h6-styles">Connect with us</p>
+                            <div class="mb-3">
+                                <ul class="list-inline">
+                                    <li class="list-inline-item"><a
+                                                href="https://www.facebook.com/yogapediayoga/"
+                                                target="_blank" rel="noopener"><img
+                                                    src="https://www.yogapedia.com/wp-content/themes/starter-theme/resource/images/social-icons/facebook.svg"
+                                                    alt="Facebook"
+                                                    width="30" height="30"/></a></li>
+
+                                    <li class="list-inline-item"><a
+                                                href="https://www.instagram.com/yogapedia_com/"
+                                                target="_blank" rel="noopener"><img
+                                                    src="https://www.yogapedia.com/wp-content/themes/starter-theme/resource/images/social-icons/instagram.svg"
+                                                    alt="Instagram"
+                                                    width="30" height="30"/></a></li>
+
+                                    <li class="list-inline-item"><a href="https://x.com/yogapedia_com"
+                                                                    target="_blank" rel="noopener"><img
+                                                    src="https://www.yogapedia.com/wp-content/themes/starter-theme/resource/images/social-icons/twitter.png"
+                                                    alt="Twitter" width="30"
+                                                    height="30"/></a></li>
+
+                                    <li class="list-inline-item"><a href="https://www.pinterest.ca/yogapedia/"
+                                                                    target="_blank" rel="noopener"><img
+                                                    src="https://www.yogapedia.com/wp-content/themes/starter-theme/resource/images/social-icons/pinterest.svg"
+                                                    alt="Pinterest" width="20"
+                                                    height="30"></a></li>
+
+
+
+
+
+
+                                </ul>
+                            </div>
+                            <p class="h6-styles">Subscribe To Our Newsletter</p>
+                            <div class="newsletter-form-action">
+                                <div class="input-group mb-3">
+                                    <script type="text/javascript"></script>
+                <div class='gf_browser_unknown gform_wrapper gravity-theme gform-theme--no-framework main-nav-newsletter-form_wrapper' data-form-theme='gravity-theme' data-form-index='0' id='gform_wrapper_5' ><div id='gf_5' class='gform_anchor' tabindex='-1'></div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_5' id='gform_5' class='main-nav-newsletter-form' action='/images/uploads/5a39b30e121442feb61756c1137c590d.png#gf_5' data-formid='5' >
+                        <div class='gform-body gform_body'><div id='gform_fields_5' class='gform_fields top_label form_sublabel_below description_below'><div id="field_5_1"  class="gfield gfield--type-email gfield--width-half field_sublabel_below gfield--no-description field_description_below gfield_visibility_visible"  data-js-reload="field_5_1"><label class='gfield_label gform-field-label screen-reader-text' for='input_5_1' >Email Address</label><div class='ginput_container ginput_container_email'>
+                            <input name='input_1' id='input_5_1' type='text' value='' class='large'   placeholder='Email Address'  aria-invalid="false"  />
+                        </div></div><div id="field_submit"  class="gfield gfield--type-submit gfield--width-half field_sublabel_below gfield--no-description field_description_below gfield_visibility_visible"  data-field-class="gform_editor_submit_container" data-field-position="inline" data-js-reload="true"><input type='submit' id='gform_submit_button_5' class='gform-button gform-button--white  button' value='Sign Up'  onclick='if(window["gf_submitting_5"]){return false;}  window["gf_submitting_5"]=true;  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_5"]){return false;} window["gf_submitting_5"]=true;  jQuery("#gform_5").trigger("submit",[true]); }' /></div><div id="field_5_2"  class="gfield gfield--type-honeypot gform_validation_container field_sublabel_below gfield--has-description field_description_below gfield_visibility_visible"  data-js-reload="field_5_2"><label class='gfield_label gform-field-label' for='input_5_2' >Name</label><div class='ginput_container'><input name='input_2' id='input_5_2' type='text' value='' /></div><div class='gfield_description' id='gfield_description_5_2'>This field is for validation purposes and should be left unchanged.</div></div></div></div>
+        <div class='gform_footer top_label'>  <input type='hidden' name='gform_ajax' value='form_id=5&amp;title=&amp;description=&amp;tabindex=0' />
+            <input type='hidden' class='gform_hidden' name='is_submit_5' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='5' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_5' value='WyJbXSIsImFkNmNjNTcwZjE0Y2Q1ODRjMDA5ZjFjNDU3YjAxNGFjIl0=' />
+            <input type='hidden' class='gform_hidden' name='gform_target_page_number_5' id='gform_target_page_number_5' value='0' />
+            <input type='hidden' class='gform_hidden' name='gform_source_page_number_5' id='gform_source_page_number_5' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div>
+		                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_5' id='gform_ajax_frame_5' title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
+		                <script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() {gformInitSpinner( 5, 'https://www.yogapedia.com/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery('#gform_ajax_frame_5').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_5');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_5').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_5').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_5').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_5').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_5').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_5').val();gformInitSpinner( 5, 'https://www.yogapedia.com/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery(document).trigger('gform_page_loaded', [5, current_page]);window['gf_submitting_5'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_5').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_5').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [5]);window['gf_submitting_5'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_5').text());}, 50);}else{jQuery('#gform_5').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [5, current_page]);} );} ); 
+/* ]]> */
+</script>
+                                </div>
+                            </div>
+                            <p><small>By clicking sign up, you agree to receive emails from
+                                    Yogapedia and agree to our <a
+                                            href="https://www.yogapedia.com/about/termsofuse"
+                                            target="_blank">Terms of Use</a> and
+                                    <a
+                                            href="https://www.yogapedia.com/about/privacypolicy"
+                                            target="_blank">Privacy
+                                        Policy</a>.</small></p>
+                        </div>
+                    </li>
+                    <!--End of Follow Button-->
+
+
+                    <!--Start of More DDL-->
+                    <li class="nav-item dropdown dropdown-more">
+                        <a class="nav-link dropdown-toggle" id="more-dropdown" role="button" data-toggle="dropdown"
+                           aria-haspopup="true" aria-expanded="false">More</a>
+                        <div class="dropdown-menu dropdown-menu-lg-right bg-dark jan-sub-nav more-menu"
+                             aria-labelledby="more-dropdown">
+                            <a class="dropdown-item jan-sub-nav-item" href="https://www.yogapedia.com/about"><span
+                                        class="jan-sub-nav-item__link">About</span></a>
+                            <a class="dropdown-item jan-sub-nav-item"
+                               href="https://www.yogapedia.com/advertise"><span
+                                        class="jan-sub-nav-item__link">Advertising Info</span></a>
+                            <a class="dropdown-item jan-sub-nav-item"
+                               href="https://www.yogapedia.com/contributors"><span
+                                        class="jan-sub-nav-item__link">Contributors</span></a>
+                            <a class="dropdown-item jan-sub-nav-item"
+                               href="https://www.yogapedia.com/subscribe"><span
+                                        class="jan-sub-nav-item__link">Newsletter</span></a>
+                            <a class="dropdown-item jan-sub-nav-item"
+                               href="https://www.yogapedia.com/about/contributors"><span
+                                        class="jan-sub-nav-item__link">Write for Us</span></a>
+                        </div>
+                    </li>
+                    <!--End of More DDL-->
+
+
+                    <li class="nav-item"><a class="nav-link" href="https://www.yogapedia.com/about/contact">Contact</a>
+                    </li>
+
+                </ul>
+                <div class="p-3 d-xl-none d-lg-none d-md-block d-sm-block text-white jan-navbar-nav-secondary__connect">
+                    <h6 class="mb-2">Connect with us</h6>
+                    <div class="row mb-4">
+                        <div class="col-sm-12">
+                            <ul class="list-inline mb-0">
+                                <li class="list-inline-item"><a
+                                            href="https://www.facebook.com/yogapediayoga/"
+                                            target="_blank" rel="noopener"><img
+                                                src="https://www.yogapedia.com/wp-content/themes/starter-theme/resource/images/social-icons/facebook.svg"
+                                                alt="Facebook"
+                                                width="30" height="30"/></a></li>
+
+                                <li class="list-inline-item"><a
+                                            href="https://www.instagram.com/yogapedia_com/"
+                                            target="_blank" rel="noopener"><img
+                                                src="https://www.yogapedia.com/wp-content/themes/starter-theme/resource/images/social-icons/instagram.svg"
+                                                alt="Instagram"
+                                                width="30" height="30"/></a></li>
+
+                                <li class="list-inline-item"><a href="https://x.com/yogapedia_com"
+                                                                target="_blank" rel="noopener"><img
+                                                src="https://www.yogapedia.com/wp-content/themes/starter-theme/resource/images/social-icons/twitter.png"
+                                                alt="Twitter" width="30"
+                                                height="30"/></a></li>
+
+                                <li class="list-inline-item"><a href="https://www.pinterest.ca/yogapedia/"
+                                                                target="_blank" rel="noopener"><img
+                                                src="https://www.yogapedia.com/wp-content/themes/starter-theme/resource/images/social-icons/pinterest.svg"
+                                                alt="Pinterest" width="20"
+                                                height="30"></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!--                    <form class="subscribe-form" method="get" action="">-->
+                    <p class="h6-styles mb-2">Subscribe To Our Newsletter</p>
+                    <div class="input-group mb-1">
+                        
+                <div class='gf_browser_unknown gform_wrapper gravity-theme gform-theme--no-framework main-nav-newsletter-form_wrapper' data-form-theme='gravity-theme' data-form-index='1' id='gform_wrapper_5' ><div id='gf_5' class='gform_anchor' tabindex='-1'></div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_5' id='gform_5' class='main-nav-newsletter-form' action='/images/uploads/5a39b30e121442feb61756c1137c590d.png#gf_5' data-formid='5' >
+                        <div class='gform-body gform_body'><div id='gform_fields_5' class='gform_fields top_label form_sublabel_below description_below'><div id="field_5_1"  class="gfield gfield--type-email gfield--width-half field_sublabel_below gfield--no-description field_description_below gfield_visibility_visible"  data-js-reload="field_5_1"><label class='gfield_label gform-field-label screen-reader-text' for='input_5_1' >Email Address</label><div class='ginput_container ginput_container_email'>
+                            <input name='input_1' id='input_5_1' type='text' value='' class='large'   placeholder='Email Address'  aria-invalid="false"  />
+                        </div></div><div id="field_submit"  class="gfield gfield--type-submit gfield--width-half field_sublabel_below gfield--no-description field_description_below gfield_visibility_visible"  data-field-class="gform_editor_submit_container" data-field-position="inline" data-js-reload="true"><input type='submit' id='gform_submit_button_5' class='gform-button gform-button--white  button' value='Sign Up'  onclick='if(window["gf_submitting_5"]){return false;}  window["gf_submitting_5"]=true;  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_5"]){return false;} window["gf_submitting_5"]=true;  jQuery("#gform_5").trigger("submit",[true]); }' /></div><div id="field_5_2"  class="gfield gfield--type-honeypot gform_validation_container field_sublabel_below gfield--has-description field_description_below gfield_visibility_visible"  data-js-reload="field_5_2"><label class='gfield_label gform-field-label' for='input_5_2' >Name</label><div class='ginput_container'><input name='input_2' id='input_5_2' type='text' value='' /></div><div class='gfield_description' id='gfield_description_5_2'>This field is for validation purposes and should be left unchanged.</div></div></div></div>
+        <div class='gform_footer top_label'>  <input type='hidden' name='gform_ajax' value='form_id=5&amp;title=&amp;description=&amp;tabindex=0' />
+            <input type='hidden' class='gform_hidden' name='is_submit_5' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='5' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_5' value='WyJbXSIsImFkNmNjNTcwZjE0Y2Q1ODRjMDA5ZjFjNDU3YjAxNGFjIl0=' />
+            <input type='hidden' class='gform_hidden' name='gform_target_page_number_5' id='gform_target_page_number_5' value='0' />
+            <input type='hidden' class='gform_hidden' name='gform_source_page_number_5' id='gform_source_page_number_5' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div>
+		                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_5' id='gform_ajax_frame_5' title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
+		                <script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() {gformInitSpinner( 5, 'https://www.yogapedia.com/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery('#gform_ajax_frame_5').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_5');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_5').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_5').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_5').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_5').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_5').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_5').val();gformInitSpinner( 5, 'https://www.yogapedia.com/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery(document).trigger('gform_page_loaded', [5, current_page]);window['gf_submitting_5'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_5').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_5').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [5]);window['gf_submitting_5'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_5').text());}, 50);}else{jQuery('#gform_5').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [5, current_page]);} );} ); 
+/* ]]> */
+</script>
+                    </div>
+
+                    <p class="m-0"><small>By clicking sign up, you agree to receive emails from
+                            Yogapedia and agree to our <a
+                                    href="https://www.yogapedia.com/about/termsofuse" target="_blank">Terms
+                                of Use</a> and <a
+                                    href="https://www.yogapedia.com/about/privacypolicy" target="_blank">Privacy
+                                Policy</a>.</small>
+                    </p>
+                </div>
+            </div>
+        </div>
+        <a class="jan-search js-show-jan-search-box d-xl-none d-lg-none d-md-block d-sm-block text-white" href="#"
+           role="button"><img class="jan-search-icon"
+                              src="https://www.yogapedia.com/wp-content/themes/starter-theme/resource/images/nav/search.svg"
+                              alt="Search Icon" height="25"
+                              width="25"/></a>
+    </div>
+</nav>
+<div class="jan-search-box bg-dark">
+    <form method="get" action="https://www.yogapedia.com/search">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-11 col-10">
+                    <div class="input-group jan-input-group-line mb-3">
+                        <div class="input-group-prepend"><span class="input-group-text"><img
+                                        class="jan-input-group-line__icon"
+                                        src="https://www.yogapedia.com/wp-content/themes/starter-theme/resource/images/site-icons/search-white.svg"
+                                        alt="Search Icon" height="25"
+                                        width="25"/></span></div>
+                        <input name="q" class="form-control jan-form-control-line text-white" type="text"
+                               placeholder="Search" aria-label="Search Input"/>
+                    </div>
+                </div>
+                <div class="col-sm-1 col-2 text-center">
+                    <a class="text-secondary jan-search-box__close js-hide-jan-search-box">
+                        <svg class="bi bi-x" width="1em" height="1em" viewbox="0 0 16 16" fill="currentColor"
+                             xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd"
+                                  d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"></path>
+                        </svg>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <input type="hidden" name="section" value="all"/>
+    </form>
+</div>
+<section class="jan-bg-gradient">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <h1 class="text-center mb-4">Sorry, we cant find the page you're looking for.</h1>
+            </div>
+        </div>
+        <div class="row justify-content-md-center mb-4">
+            <div class="col-md-9 col-sm-12">
+                <form method="get" action="/search" class="form-inline d-flex justify-content-center">
+                    <div class="input-group input-group-lg w-75">
+                        <input name="q" class="form-control form-control-lg" type="text" placeholder="Try searching for what you need" autofocus aria-label="" aria-describedby="button-search" />
+                        <div class="input-group-append"><button class="btn btn-secondary" id="button-search" type="submit"><span class="jan-icon jan-icon--search-white"></span></button></div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+    <footer id="footer" class="py-5 bg-dark content-visibility-auto contain-size-h700">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-md-6 mb-3">
+                    <a href="/">
+                        <img class="img-fluid mb-3"
+                             src="https://www.yogapedia.com/wp-content/themes/starter-theme/resource/images/logo-white.png"
+                             width="278" height="70"
+                             alt="Yogapedia Logo"/>
+                    </a>
+                    <p>
+                        The fastest-growing online platform for the yoga community - yoga poses, mantras, scriptures, meditation tips and more.
+                    </p>
+                    <p>
+                        Copyright © 2025                        Yogapedia Inc. -
+                        <a href="https://www.yogapedia.com/about/termsofuse">Terms of Use</a> -
+                        <a href="https://www.yogapedia.com/about/privacypolicy">Privacy Policy</a> -
+                        <a href="https://www.yogapedia.com/about/editorial-policy">Editorial Review
+                            Policy</a>
+                    </p>
+                </div>
+                <div class="col-lg-3 col-md-6 mb-3">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <ul class="list-unstyled jan-list--padded">
+                                <li><a href="https://www.yogapedia.com/dictionary">Dictionary</a></li>
+                                <li><a href="https://www.yogapedia.com/article/topics">Topics</a></li>
+                                <li><a href="https://www.yogapedia.com/experts">Q&amp;A</a></li>
+                                <li><a href="https://www.yogapedia.com/downloads">Guides</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-sm-6">
+                            <ul class="list-unstyled jan-list--padded">
+                                <li><a href="https://www.yogapedia.com/about">About</a></li>
+                                <li><a href="https://www.yogapedia.com/contributors">Contributors</a></li>
+                                <li><a href="https://www.yogapedia.com/advertise">Advertising Info</a></li>
+                                <li><a href="https://www.yogapedia.com/about/contributors"">Write for Us</a></li>
+                                <li><a href="https://www.yogapedia.com/about/contact">Contact Us</a></li>
+                                <li><a href="https://www.yogapedia.com/sitemap">Sitemap</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-6">
+                    <div class="font-header mb-3">Follow Us</div>
+                    <ul class="list-inline">
+                        <li class="list-inline-item"><a
+                                    href="https://www.facebook.com/yogapediayoga/"
+                                    target="_blank" rel="noopener"><img
+                                        src="https://www.yogapedia.com/wp-content/themes/starter-theme/resource/images/social-icons/facebook.svg"
+                                        alt="Facebook"
+                                        width="30" height="30"/></a></li>
+
+                        <li class="list-inline-item"><a
+                                    href="https://www.instagram.com/yogapedia_com/"
+                                    target="_blank" rel="noopener"><img
+                                        src="https://www.yogapedia.com/wp-content/themes/starter-theme/resource/images/social-icons/instagram.svg"
+                                        alt="Instagram"
+                                        width="30" height="30"/></a></li>
+
+                        <li class="list-inline-item"><a href="https://x.com/yogapedia_com"
+                                                        target="_blank" rel="noopener"><img
+                                        src="https://www.yogapedia.com/wp-content/themes/starter-theme/resource/images/social-icons/twitter.png"
+                                        alt="Twitter" width="30"
+                                        height="30"/></a></li>
+
+                        <li class="list-inline-item"><a href="https://www.pinterest.ca/yogapedia/"
+                                                        target="_blank" rel="noopener"><img
+                                        src="https://www.yogapedia.com/wp-content/themes/starter-theme/resource/images/social-icons/pinterest.svg"
+                                        alt="Pinterest" width="20"
+                                        height="30"></a></li>
+                    </ul>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="font-header mb-3">Subscribe To Our Newsletter</div>
+
+                    <!--This is the same as the homepage body one-->
+                    
+                <div class='gf_browser_unknown gform_wrapper gravity-theme gform-theme--no-framework homepage-body-newsletter_wrapper' data-form-theme='gravity-theme' data-form-index='0' id='gform_wrapper_7' ><div id='gf_7' class='gform_anchor' tabindex='-1'></div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_7' id='gform_7' class='homepage-body-newsletter' action='/images/uploads/5a39b30e121442feb61756c1137c590d.png#gf_7' data-formid='7' >
+                        <div class='gform-body gform_body'><div id='gform_fields_7' class='gform_fields top_label form_sublabel_below description_below'><div id="field_7_1"  class="gfield gfield--type-email gfield_contains_required field_sublabel_below gfield--no-description field_description_below hidden_label gfield_visibility_visible"  data-js-reload="field_7_1"><label class='gfield_label gform-field-label' for='input_7_1' >Email<span class="gfield_required"><span class="gfield_required gfield_required_text">(Required)</span></span></label><div class='ginput_container ginput_container_email'>
+                            <input name='input_1' id='input_7_1' type='text' value='' class='large'   placeholder='Email Address' aria-required="true" aria-invalid="false"  />
+                        </div></div><div id="field_7_2"  class="gfield gfield--type-honeypot gform_validation_container field_sublabel_below gfield--has-description field_description_below gfield_visibility_visible"  data-js-reload="field_7_2"><label class='gfield_label gform-field-label' for='input_7_2' >Name</label><div class='ginput_container'><input name='input_2' id='input_7_2' type='text' value='' /></div><div class='gfield_description' id='gfield_description_7_2'>This field is for validation purposes and should be left unchanged.</div></div></div></div>
+        <div class='gform_footer top_label'> <input type='submit' id='gform_submit_button_7' class='gform_button button' value='Submit'  onclick='if(window["gf_submitting_7"]){return false;}  window["gf_submitting_7"]=true;  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_7"]){return false;} window["gf_submitting_7"]=true;  jQuery("#gform_7").trigger("submit",[true]); }' /> <input type='hidden' name='gform_ajax' value='form_id=7&amp;title=&amp;description=&amp;tabindex=0' />
+            <input type='hidden' class='gform_hidden' name='is_submit_7' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='7' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_7' value='WyJbXSIsImFkNmNjNTcwZjE0Y2Q1ODRjMDA5ZjFjNDU3YjAxNGFjIl0=' />
+            <input type='hidden' class='gform_hidden' name='gform_target_page_number_7' id='gform_target_page_number_7' value='0' />
+            <input type='hidden' class='gform_hidden' name='gform_source_page_number_7' id='gform_source_page_number_7' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div>
+		                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_7' id='gform_ajax_frame_7' title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
+		                <script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() {gformInitSpinner( 7, 'https://www.yogapedia.com/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery('#gform_ajax_frame_7').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_7');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_7').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_7').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_7').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_7').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_7').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_7').val();gformInitSpinner( 7, 'https://www.yogapedia.com/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery(document).trigger('gform_page_loaded', [7, current_page]);window['gf_submitting_7'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_7').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_7').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [7]);window['gf_submitting_7'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_7').text());}, 50);}else{jQuery('#gform_7').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [7, current_page]);} );} ); 
+/* ]]> */
+</script>
+
+                    <p class="mt-2"><small>By clicking sign up, you agree to receive emails from
+                            Yogapedia and agree to our <a
+                                    href="https://www.yogapedia.com/about/termsofuse">Terms of
+                                Use</a> & <a href="https://www.yogapedia.com/about/privacypolicy">Privacy
+                                Policy</a>.</small></p>
+                </div>
+            </div>
+            <div class="d-none d-lg-block d-xl-block">
+                <hr class="my-3 bg-white"/>
+            </div>
+            <div class="d-none d-lg-block d-xl-block">
+                <div class="font-header mb-3">Yogapedia Terms</div>
+                <div class="d-flex">
+                                            <a class="flex-fill nav-item nav-link text-center jan-js-term-letter"
+                           href="https://www.yogapedia.com/yoga-terms/1">#</a>
+                                            <a class="flex-fill nav-item nav-link text-center jan-js-term-letter"
+                           href="https://www.yogapedia.com/yoga-terms/a">A</a>
+                                            <a class="flex-fill nav-item nav-link text-center jan-js-term-letter"
+                           href="https://www.yogapedia.com/yoga-terms/b">B</a>
+                                            <a class="flex-fill nav-item nav-link text-center jan-js-term-letter"
+                           href="https://www.yogapedia.com/yoga-terms/c">C</a>
+                                            <a class="flex-fill nav-item nav-link text-center jan-js-term-letter"
+                           href="https://www.yogapedia.com/yoga-terms/d">D</a>
+                                            <a class="flex-fill nav-item nav-link text-center jan-js-term-letter"
+                           href="https://www.yogapedia.com/yoga-terms/e">E</a>
+                                            <a class="flex-fill nav-item nav-link text-center jan-js-term-letter"
+                           href="https://www.yogapedia.com/yoga-terms/f">F</a>
+                                            <a class="flex-fill nav-item nav-link text-center jan-js-term-letter"
+                           href="https://www.yogapedia.com/yoga-terms/g">G</a>
+                                            <a class="flex-fill nav-item nav-link text-center jan-js-term-letter"
+                           href="https://www.yogapedia.com/yoga-terms/h">H</a>
+                                            <a class="flex-fill nav-item nav-link text-center jan-js-term-letter"
+                           href="https://www.yogapedia.com/yoga-terms/i">I</a>
+                                            <a class="flex-fill nav-item nav-link text-center jan-js-term-letter"
+                           href="https://www.yogapedia.com/yoga-terms/j">J</a>
+                                            <a class="flex-fill nav-item nav-link text-center jan-js-term-letter"
+                           href="https://www.yogapedia.com/yoga-terms/k">K</a>
+                                            <a class="flex-fill nav-item nav-link text-center jan-js-term-letter"
+                           href="https://www.yogapedia.com/yoga-terms/l">L</a>
+                                            <a class="flex-fill nav-item nav-link text-center jan-js-term-letter"
+                           href="https://www.yogapedia.com/yoga-terms/m">M</a>
+                                            <a class="flex-fill nav-item nav-link text-center jan-js-term-letter"
+                           href="https://www.yogapedia.com/yoga-terms/n">N</a>
+                                            <a class="flex-fill nav-item nav-link text-center jan-js-term-letter"
+                           href="https://www.yogapedia.com/yoga-terms/o">O</a>
+                                            <a class="flex-fill nav-item nav-link text-center jan-js-term-letter"
+                           href="https://www.yogapedia.com/yoga-terms/p">P</a>
+                                            <a class="flex-fill nav-item nav-link text-center jan-js-term-letter"
+                           href="https://www.yogapedia.com/yoga-terms/q">Q</a>
+                                            <a class="flex-fill nav-item nav-link text-center jan-js-term-letter"
+                           href="https://www.yogapedia.com/yoga-terms/r">R</a>
+                                            <a class="flex-fill nav-item nav-link text-center jan-js-term-letter"
+                           href="https://www.yogapedia.com/yoga-terms/s">S</a>
+                                            <a class="flex-fill nav-item nav-link text-center jan-js-term-letter"
+                           href="https://www.yogapedia.com/yoga-terms/t">T</a>
+                                            <a class="flex-fill nav-item nav-link text-center jan-js-term-letter"
+                           href="https://www.yogapedia.com/yoga-terms/u">U</a>
+                                            <a class="flex-fill nav-item nav-link text-center jan-js-term-letter"
+                           href="https://www.yogapedia.com/yoga-terms/v">V</a>
+                                            <a class="flex-fill nav-item nav-link text-center jan-js-term-letter"
+                           href="https://www.yogapedia.com/yoga-terms/w">W</a>
+                                            <a class="flex-fill nav-item nav-link text-center jan-js-term-letter"
+                           href="https://www.yogapedia.com/yoga-terms/x">X</a>
+                                            <a class="flex-fill nav-item nav-link text-center jan-js-term-letter"
+                           href="https://www.yogapedia.com/yoga-terms/y">Y</a>
+                                            <a class="flex-fill nav-item nav-link text-center jan-js-term-letter"
+                           href="https://www.yogapedia.com/yoga-terms/z">Z</a>
+                                    </div>
+            </div>
+        </div>
+    </footer>
+    <a class="jan-to-top" href="#">
+        <div class="d-flex align-items-center justify-content-center h-100"><img
+                    src="https://www.yogapedia.com/wp-content/themes/starter-theme/resource/images/site-icons/arrow-forward.svg"
+                    alt="Go back to top" width="22" height="13"/></div>
+    </a>
+    <div id="footer-sticky-ad" class="d-none footer-sticky-ad-wrapper ad__mapping7">
+
+        <button id="footer-close-ad" type="button" class="btn btn-light btn-sm d-none d-lg-inline"><small>close</small></button>
+
+        <div class="hidden-sm hidden-xs">
+            <!-- /22981269556/Yogapedia_Article_D////M_970x90_Footer -->
+            <div id='div-gpt-ad-1595593347360-1' data-refreshRate="30">
+                <script>
+                    googletag.cmd.push(function () {
+                        googletag.display('div-gpt-ad-1595593347360-1');
+                        if (typeof (pubwise) != 'undefined' && pubwise.enabled === true) {
+                            pwpbjs.que.push(function () {
+                                pwRegisterLazyLoad(gptadslots['div-gpt-ad-1595593347360-1'], 1, [50, 0, 50, 0], 0, 768, 2);
+                            });
+                        } else {
+                            googletag.pubads().refresh([gptadslots['div-gpt-ad-1595593347360-1']]);
+                        }
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="hidden-md hidden-lg">
+            <!-- /22981269556/Yogapedia_All_Mobile_320x50_Footer -->
+            <div id='div-gpt-ad-1596131215150-1' data-refreshRate="30">
+                <script>
+                    googletag.cmd.push(function () {
+                        googletag.display('div-gpt-ad-1596131215150-1');
+                        if (typeof (pubwise) != 'undefined' && pubwise.enabled === true) {
+                            pwpbjs.que.push(function () {
+                                pwRegisterLazyLoad(gptadslots['div-gpt-ad-1596131215150-1'], 1, [50, 0, 50, 0], 0, 768, 2);
+                            });
+                        } else {
+                            googletag.pubads().refresh([gptadslots['div-gpt-ad-1596131215150-1']]);
+                        }
+                    });
+                </script>
+            </div>
+        </div>
+
+    </div>
+
+
+<!--Start 3rd Party Codes-->
+
+<!-- Sumo Tag -->
+<script async>(function (s, u, m, o, j, v) { j = u.createElement(m); v = u.getElementsByTagName(m)[0]; j.async = 1; j.src = o; j.dataset.sumoSiteId = '82706fc3b2722e6370f3868718e90157939b83d7d249894f3656a00ce05ec035'; v.parentNode.insertBefore(j, v) })(window, document, 'script', '//load.sumo.com/');</script>
+
+
+<!--Start ZEMBULA-->
+<!-- ZEMBULA TARGETING LOADER -->
+<script type="text/javascript">
+    /* ZEMBULA SHARED INITIALIZER - only needed once per page(ok to have multiple times) */
+    function zmblLoadAsync(t, n) { var o, e, a, c = !1, l = function () { c || (c = !0, n && n()) }; for (a = 0, e = t.length; e > a; a++) { o = t[a]; var r = document.createElement("script"); if (r.async = 1, null !== n) { r.readyState ? r.onreadystatechange = function () { ("loaded" === r.readyState || "complete" === r.readyState) && (r.onreadystatechange = null, l()) } : r.onload = function () { l() }; var s = ""; /^\/\//.test(o) && (s = "https:" === document.location.protocol ? "https:" : "http:"), "https:" === document.location.protocol && /^http:/.test(o) && (r.crossorigin = "anonymous"); var i = s + o; r.src = i; var d = document.getElementsByTagName("script")[0]; d.parentNode.insertBefore(r, d) } } }
+    !function (t, n) { window.zmbl = window.zmbl || function () { (window.zmbl.q = window.zmbl.q || []).push(arguments) }, zmbl("init"), zmblLoadAsync(t, n) }(["//www.zmbl.co/build/zmbl.js?v=3.1.0"]);
+
+    /* LOAD TARGETING */
+    zmbl("targeting", "0cd8b26d-70f4-41cb-8054-5b851d8f7160");
+</script>
+<style>
+    /*For Zembula Slide Out*/
+    #experience-canvas, .front__1KE5q,
+    .wrapper__1qRce, .slidein__37tBU {
+        max-height: 300px !important;
+        max-width: 300px !important;
+    }
+
+    .container__1wdw4.containerRight__t-6g_ {
+        width: 58% !important;
+    }
+
+    a.button__1Uzlm.buttonEmbed__2oWYH {
+        font-size: 21px !important;
+    }
+</style>
+<!--END ZEMBULA-->
+
+
+<!--LinkedIn Start-->
+<!--@*LinkedIn Insight Tag*@-->
+<script type="text/javascript">
+    _linkedin_partner_id = "1879084";
+    window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+    window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script>
+<script type="text/javascript">
+    (function () {
+        var s = document.getElementsByTagName("script")[0];
+        var b = document.createElement("script");
+        b.type = "text/javascript"; b.async = true;
+        b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+        s.parentNode.insertBefore(b, s);
+    })();
+</script>
+<noscript>
+    <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=1879084&fmt=gif" />
+</noscript>
+<!--Linkedin end-->
+
+<!--<script type="text/javascript">var subscribersSiteId = '0059c6fc-9f3f-4eb0-8d77-64eb922bcd25';</script>-->
+<!--<script type="text/javascript" src="https://cdn.subscribers.com/assets/subscribers.js"></script>-->
+
+
+
+<link rel='stylesheet' id='gravity_forms_theme_foundation-css' href='https://www.yogapedia.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-foundation.min.css?ver=2.7.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='gravity_forms_theme_reset-css' href='https://www.yogapedia.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-reset.min.css?ver=2.7.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='gravity_forms_theme_framework-css' href='https://www.yogapedia.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-framework.min.css?ver=2.7.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='gravity_forms_orbital_theme-css' href='https://www.yogapedia.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-orbital-theme.min.css?ver=2.7.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='gform_basic-css' href='https://www.yogapedia.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.7.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='gform_theme_components-css' href='https://www.yogapedia.com/wp-content/plugins/gravityforms/assets/css/dist/theme-components.min.css?ver=2.7.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='gform_theme_ie11-css' href='https://www.yogapedia.com/wp-content/plugins/gravityforms/assets/css/dist/theme-ie11.min.css?ver=2.7.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='gform_theme-css' href='https://www.yogapedia.com/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.7.1.1' type='text/css' media='all' />
+<script type="text/javascript" data-cfasync="false" async src="//l.getsitecontrol.com/575rgdo4.js?ver=3.0.0" id="gsc_widget_script-js"></script>
+<script type="text/javascript" src="https://www.yogapedia.com/wp-content/themes/starter-theme/dist/js/popper.min.js?ver=1" id="popper-js"></script>
+<script type="text/javascript" src="https://www.yogapedia.com/wp-content/themes/starter-theme/dist/js/index.js?ver=1" id="index-js"></script>
+<script type="text/javascript" src="https://www.yogapedia.com/wp-content/themes/starter-theme/dist/js/util.js?ver=1" id="util-js"></script>
+<script type="text/javascript" src="https://www.yogapedia.com/wp-content/themes/starter-theme/dist/js/tooltip.js?ver=1" id="tooltip-js"></script>
+<script type="text/javascript" src="https://www.yogapedia.com/wp-content/themes/starter-theme/dist/js/popover.js?ver=1" id="popover-js"></script>
+<script type="text/javascript" src="https://www.yogapedia.com/wp-content/themes/starter-theme/dist/js/button.js?ver=1" id="button-js"></script>
+<script type="text/javascript" src="https://www.yogapedia.com/wp-content/themes/starter-theme/dist/js/collapse.js?ver=1" id="collapse-js"></script>
+<script type="text/javascript" src="https://www.yogapedia.com/wp-content/themes/starter-theme/dist/js/dropdown.js?ver=1" id="dropdown-js"></script>
+<script type="text/javascript" src="https://www.yogapedia.com/wp-content/themes/starter-theme/dist/js/scrollspy.js?ver=1" id="scrollspy-js"></script>
+<script type="text/javascript" src="https://www.yogapedia.com/wp-content/themes/starter-theme/dist/js/tab.js?ver=1" id="tab-js"></script>
+<script type="text/javascript" src="https://www.yogapedia.com/wp-content/themes/starter-theme/dist/js/lazysizes.min.js?ver=1" id="lazysizes-js"></script>
+<script type="text/javascript" src="https://www.yogapedia.com/wp-content/themes/starter-theme/dist/js/social-share-kit.js?ver=1" id="social-share-kit-js"></script>
+<script type="text/javascript" src="https://www.yogapedia.com/wp-content/themes/starter-theme/dist/js/shared.js?ver=1" id="shared-js"></script>
+<script type="text/javascript" src="https://www.yogapedia.com/wp-content/themes/starter-theme/dist/js/app.js?ver=1.1" id="app-js"></script>
+<script type="text/javascript" src="https://www.yogapedia.com/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381" id="wp-dom-ready-js"></script>
+<script type="text/javascript" src="https://www.yogapedia.com/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://www.yogapedia.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.yogapedia.com/wp-includes/js/dist/a11y.min.js?ver=3156534cc54473497e14" id="wp-a11y-js"></script>
+<script type="text/javascript" defer='defer' src="https://www.yogapedia.com/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.7.1.1" id="gform_json-js"></script>
+<script type="text/javascript" id="gform_gravityforms-js-extra">
+/* <![CDATA[ */
+var gform_i18n = {"datepicker":{"days":{"monday":"Mo","tuesday":"Tu","wednesday":"We","thursday":"Th","friday":"Fr","saturday":"Sa","sunday":"Su"},"months":{"january":"January","february":"February","march":"March","april":"April","may":"May","june":"June","july":"July","august":"August","september":"September","october":"October","november":"November","december":"December"},"firstDay":1,"iconText":"Select date"}};
+var gf_legacy_multi = [];
+var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file is not allowed. Must be one of the following:","delete_file":"Delete this file","in_progress":"in progress","file_exceeds_limit":"File exceeds size limit","illegal_extension":"This type of file is not allowed.","max_reached":"Maximum number of files reached","unknown_error":"There was a problem while saving the file on the server","currently_uploading":"Please wait for the uploading to complete","cancel":"Cancel","cancel_upload":"Cancel this upload","cancelled":"Cancelled"},"vars":{"images_url":"https:\/\/www.yogapedia.com\/wp-content\/plugins\/gravityforms\/images"}};
+var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2,"code":"USD"},"base_url":"https:\/\/www.yogapedia.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/www.yogapedia.com\/wp-content\/plugins\/gravityforms\/images\/spinner.svg","version_hash":"61be1dbd8ce56f337fbc65a6814fd86e","strings":{"newRowAdded":"New row added.","rowRemoved":"Row removed","formSaved":"The form has been saved.  The content contains the link to return and complete the form."}};
+var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2,"code":"USD"},"base_url":"https:\/\/www.yogapedia.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/www.yogapedia.com\/wp-content\/plugins\/gravityforms\/images\/spinner.svg","version_hash":"61be1dbd8ce56f337fbc65a6814fd86e","strings":{"newRowAdded":"New row added.","rowRemoved":"Row removed","formSaved":"The form has been saved.  The content contains the link to return and complete the form."}};
+var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2,"code":"USD"},"base_url":"https:\/\/www.yogapedia.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/www.yogapedia.com\/wp-content\/plugins\/gravityforms\/images\/spinner.svg","version_hash":"61be1dbd8ce56f337fbc65a6814fd86e","strings":{"newRowAdded":"New row added.","rowRemoved":"Row removed","formSaved":"The form has been saved.  The content contains the link to return and complete the form."}};
+/* ]]> */
+</script>
+<script type="text/javascript" defer='defer' src="https://www.yogapedia.com/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.7.1.1" id="gform_gravityforms-js"></script>
+<script type="text/javascript" defer='defer' src="https://www.yogapedia.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.7.1.1" id="gform_placeholder-js"></script>
+<script type="text/javascript" defer='defer' src="https://www.yogapedia.com/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js?ver=bc402317bb1b621c1f695fe582d28717" id="gform_gravityforms_utils-js"></script>
+<script type="text/javascript" defer='defer' src="https://www.yogapedia.com/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js?ver=79e6346cf824ee59c1f023f916789c24" id="gform_gravityforms_theme_vendors-js"></script>
+<script type="text/javascript" id="gform_gravityforms_theme-js-extra">
+/* <![CDATA[ */
+var gform_theme_config = {"common":{"form":{"honeypot":{"version_hash":"61be1dbd8ce56f337fbc65a6814fd86e"}}},"hmr_dev":"","public_path":"https:\/\/www.yogapedia.com\/wp-content\/plugins\/gravityforms\/assets\/js\/dist\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" defer='defer' src="https://www.yogapedia.com/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js?ver=9c9598c0c1b63e5624987254d79ea8ef" id="gform_gravityforms_theme-js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(formId == 5) {if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} ) } ); 
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() { jQuery(document).trigger('gform_post_render', [5, 1]) } ); 
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(formId == 7) {if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} ) } ); 
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() { jQuery(document).trigger('gform_post_render', [7, 1]) } ); 
+/* ]]> */
+</script>
+</body>
+</html>
+
+<!-- plugin=object-cache-pro client=phpredis metric#hits=2920 metric#misses=67 metric#hit-ratio=97.8 metric#bytes=2560709 metric#prefetches=379 metric#store-reads=80 metric#store-writes=8 metric#store-hits=401 metric#store-misses=63 metric#sql-queries=41 metric#ms-total=203.23 metric#ms-cache=17.12 metric#ms-cache-avg=0.1967 metric#ms-cache-ratio=8.4 sample#redis-hits=998146011 sample#redis-misses=140443589 sample#redis-hit-ratio=87.7 sample#redis-ops-per-sec=39 sample#redis-evicted-keys=0 sample#redis-used-memory=58432328 sample#redis-used-memory-rss=53633024 sample#redis-memory-fragmentation-ratio=0.9 sample#redis-connected-clients=1 sample#redis-tracking-clients=0 sample#redis-rejected-connections=0 sample#redis-keys=61836 -->

@@ -1,0 +1,53 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+
+  <title>Squarespace - No Such Website</title>
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+  <script src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js" nomodule type="text/javascript" crossorigin="anonymous"></script>
+  <script src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js" type="text/javascript" crossorigin="anonymous"></script>
+  <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-4cb22a1658d906ab-min.en-US.js" ></script><script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-b60fc53b12f6d6c5-min.en-US.js" ></script><script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-8d37ac3b7eb0a824-min.en-US.js" ></script><script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-51880dc0d7a0158c-min.en-US.js" ></script><script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-851484c10673209d-min.en-US.js" ></script><script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-53b5824bbbc2cd31-min.en-US.js" ></script><link rel="stylesheet" type="text/css" href="//assets.squarespace.com/universal/styles-compressed/common-593797d249341439-min.en-US.css">
+  <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/dialog-d9d5bffa6fd8faae-min.en-US.js" ></script><link rel="stylesheet" type="text/css" href="//assets.squarespace.com/universal/styles-compressed/dialog-f9093f2d526b94df-min.en-US.css">
+  <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/system-page-42404e419835ddbc-min.en-US.js" ></script><link rel="stylesheet" type="text/css" href="//assets.squarespace.com/universal/styles-compressed/system-page-a7e0d13b69d0645f-min.en-US.css">
+
+</head>
+<body class="squarespace-config squarespace-system-page">
+
+  <div class="minimal-logo">&nbsp;</div>
+
+  <script>
+
+    Static =  { };
+    Static.CONTEXT = {"removed":true};
+
+    Y = YUI(YUI_CONFIG).use('squarespace-common', 'squarespace-system-page', function(Y) {
+
+      var message;
+
+      if (Static.CONTEXT.removed) {
+
+        message = '<div class="bigtext"><div class="title">SITE DELETED</div><div class="description">This site has been deleted by the owner.</div></div>';
+
+      } else {
+
+        message = '<div class="bigtext"><div class="title">No Such Website</div><div class="description">The website you requested does not exist.</div></div>';
+
+      }
+
+      LB = new Y.Squarespace.Lightbox({
+        disableNormalClose: true,
+        clickAnywhereToExit: false,
+        content: message,
+        margin: 100,
+        height: 90
+      });
+
+      LB.show();
+
+    });
+
+  </script>
+
+</body>
+</html>

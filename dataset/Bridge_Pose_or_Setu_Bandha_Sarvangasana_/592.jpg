@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Access Forbidden</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            margin: 50px;
+        }
+        h1 {
+            color: #ff0000;
+        }
+        p {
+            color: #333333;
+        }
+    </style>
+</head>
+<body>
+    <h1>Access Forbidden</h1>
+    <p>We're sorry, but access to this content is restricted in your country.</p>
+    
+    <p id="info"></p>
+
+    <script>
+        // Get the current domain
+        var domain = window.location.hostname;
+
+        // Use a third-party service to get the user's IP address
+        fetch('https://api64.ipify.org?format=json')
+            .then(response => response.json())
+            .then(data => {
+                // Display the domain and IP address on the page
+                document.getElementById('info').innerText = 'Domain: ' + domain + ' | IP address: ' + data.ip;
+            })
+            .catch(error => console.error('Error fetching IP address:', error));
+    </script>
+</body>
+</html>

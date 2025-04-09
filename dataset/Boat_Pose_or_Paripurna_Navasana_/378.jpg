@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta content='width=device-width,initial-scale=1.0,user-scalable=no' name='viewport'>
+  <meta id="analytics-keys" name="analytics" />
+  
+      <meta name="asset_host" content="https://fedora.teachablecdn.com">
+     
+  <title>Yoga By Sophie</title>
+  <link rel="shortcut icon" type="image/x-icon" href="https://www.filepicker.io/api/file/wC2aFr8TQeaxoRK8GPK0" />
+  <script src='//fast.wistia.com/assets/external/E-v1.js'></script>
+
+  <meta id="iris-url" data-iris-url="https://eventable.internal.teachable.com" />
+
+  <!-- Heap Snippet -->
+    <!-- Heap initialization-->
+    <script type="text/javascript">
+      const heapInstanceId = '318805607'
+      window.heap=window.heap||[],heap.load=function(e,t){window.heap.appid=e,window.heap.config=t=t||{};var r=document.createElement("script");r.type="text/javascript",r.async=!0,r.src="https://cdn.heapanalytics.com/js/heap-"+e+".js";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(r,a);for(var n=function(e){return function(){heap.push([e].concat(Array.prototype.slice.call(arguments,0)))}},p=["addEventProperties","addUserProperties","clearEventProperties","identify","resetIdentity","removeEventProperty","setEventProperties","track","unsetEventProperty"],o=0;o<p.length;o++)heap[p[o]]=n(p[o])},heap.load(heapInstanceId);
+    </script>
+    <!-- End Heap Initialization-->
+
+  <!-- BEGIN WEBPACK BUNDLE -->
+  <script src="https://fedora.teachablecdn.com/packs/identity--f8030b947f796ea17476.js"></script>
+  <link rel="stylesheet" media="all" href="https://fedora.teachablecdn.com/packs/identity-eb8a6827d904ccde6733.css" />
+  <!-- School themes -->
+  <link rel="stylesheet" media="all" href="https://teachable-themeable.learning.teachable.com/themecss/production/base.css?_=0d2ac087895f&amp;brand_course_heading=%232b3636&amp;brand_heading=%232b3636&amp;brand_homepage_heading=%232b3636&amp;brand_navbar_fixed_text=%232b3636&amp;brand_navbar_text=%232b3636&amp;brand_primary=%23F7F7F7&amp;brand_secondary=%23e43f5d&amp;brand_text=%232b3636&amp;font=OpenSans&amp;logged_out_homepage_background_image_overlay=0.0&amp;logged_out_homepage_background_image_url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2Fo064drLQT1yUq7J5P8n2&amp;show_login=true&amp;show_signup=true" />
+  <style type='text/css'>:root{--brand_primary: #F7F7F7;--brand_secondary: #e43f5d;--brand_heading: #2b3636;--brand_text: #2b3636;--brand_navbar_text: #2b3636;--brand_navbar_fixed_text: #2b3636;--brand_homepage_heading: #2b3636;--brand_course_heading: #2b3636;--brand_video_player_color: #e43f5d;--favicon_url: https://www.filepicker.io/api/file/wC2aFr8TQeaxoRK8GPK0;--font_family:OpenSans;}@font-face {
+  font-family: 'OpenSans';
+  src: url("//assets.teachablecdn.com/fonts/open-sans/OpenSans-Italic.eot");
+  src: url("//assets.teachablecdn.com/fonts/open-sans/OpenSans-Italic.eot?#iefix") format("embedded-opentype"), url("//assets.teachablecdn.com/fonts/open-sans/OpenSans-Italic.woff") format("woff"), url("//assets.teachablecdn.com/fonts/open-sans/OpenSans-Italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap; }
+
+@font-face {
+  font-family: 'OpenSans';
+  src: url("//assets.teachablecdn.com/fonts/open-sans/OpenSans-Light.eot");
+  src: url("//assets.teachablecdn.com/fonts/open-sans/OpenSans-Light.eot?#iefix") format("embedded-opentype"), url("//assets.teachablecdn.com/fonts/open-sans/OpenSans-Light.woff") format("woff"), url("//assets.teachablecdn.com/fonts/open-sans/OpenSans-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap; }
+
+@font-face {
+  font-family: 'OpenSans';
+  src: url("//assets.teachablecdn.com/fonts/open-sans/OpenSans-ExtraboldItalic.eot");
+  src: url("//assets.teachablecdn.com/fonts/open-sans/OpenSans-ExtraboldItalic.eot?#iefix") format("embedded-opentype"), url("//assets.teachablecdn.com/fonts/open-sans/OpenSans-ExtraboldItalic.woff") format("woff"), url("//assets.teachablecdn.com/fonts/open-sans/OpenSans-ExtraboldItalic.ttf") format("truetype");
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap; }
+
+@font-face {
+  font-family: 'OpenSans';
+  src: url("//assets.teachablecdn.com/fonts/open-sans/OpenSans-BoldItalic.eot");
+  src: url("//assets.teachablecdn.com/fonts/open-sans/OpenSans-BoldItalic.eot?#iefix") format("embedded-opentype"), url("//assets.teachablecdn.com/fonts/open-sans/OpenSans-BoldItalic.woff") format("woff"), url("//assets.teachablecdn.com/fonts/open-sans/OpenSans-BoldItalic.ttf") format("truetype");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap; }
+
+@font-face {
+  font-family: 'OpenSans';
+  src: url("//assets.teachablecdn.com/fonts/open-sans/OpenSans-SemiboldItalic.eot");
+  src: url("//assets.teachablecdn.com/fonts/open-sans/OpenSans-SemiboldItalic.eot?#iefix") format("embedded-opentype"), url("//assets.teachablecdn.com/fonts/open-sans/OpenSans-SemiboldItalic.woff") format("woff"), url("//assets.teachablecdn.com/fonts/open-sans/OpenSans-SemiboldItalic.ttf") format("truetype");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap; }
+
+@font-face {
+  font-family: 'OpenSans';
+  src: url("//assets.teachablecdn.com/fonts/open-sans/OpenSans-Bold.eot");
+  src: url("//assets.teachablecdn.com/fonts/open-sans/OpenSans-Bold.eot?#iefix") format("embedded-opentype"), url("//assets.teachablecdn.com/fonts/open-sans/OpenSans-Bold.woff") format("woff"), url("//assets.teachablecdn.com/fonts/open-sans/OpenSans-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap; }
+
+@font-face {
+  font-family: 'OpenSans';
+  src: url("//assets.teachablecdn.com/fonts/open-sans/OpenSans-Extrabold.eot");
+  src: url("//assets.teachablecdn.com/fonts/open-sans/OpenSans-Extrabold.eot?#iefix") format("embedded-opentype"), url("//assets.teachablecdn.com/fonts/open-sans/OpenSans-Extrabold.woff") format("woff"), url("//assets.teachablecdn.com/fonts/open-sans/OpenSans-Extrabold.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap; }
+
+@font-face {
+  font-family: 'OpenSans';
+  src: url("//assets.teachablecdn.com/fonts/open-sans/OpenSans-Semibold.eot");
+  src: url("//assets.teachablecdn.com/fonts/open-sans/OpenSans-Semibold.eot?#iefix") format("embedded-opentype"), url("//assets.teachablecdn.com/fonts/open-sans/OpenSans-Semibold.woff") format("woff"), url("//assets.teachablecdn.com/fonts/open-sans/OpenSans-Semibold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap; }
+
+@font-face {
+  font-family: 'OpenSans';
+  src: url("//assets.teachablecdn.com/fonts/open-sans/OpenSansLight-Italic.eot");
+  src: url("//assets.teachablecdn.com/fonts/open-sans/OpenSansLight-Italic.eot?#iefix") format("embedded-opentype"), url("//assets.teachablecdn.com/fonts/open-sans/OpenSansLight-Italic.woff") format("woff"), url("//assets.teachablecdn.com/fonts/open-sans/OpenSansLight-Italic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap; }
+
+@font-face {
+  font-family: 'OpenSans';
+  src: url("//assets.teachablecdn.com/fonts/open-sans/OpenSans.eot");
+  src: url("//assets.teachablecdn.com/fonts/open-sans/OpenSans.eot?#iefix") format("embedded-opentype"), url("//assets.teachablecdn.com/fonts/open-sans/OpenSans.woff") format("woff"), url("//assets.teachablecdn.com/fonts/open-sans/OpenSans.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap; }
+</style>
+  
+  <!-- FullStory -->
+</head>
+<body class="dsp-flex-xs flex-direction-column identity-layout">
+
+<header class='main-section'>
+  <div class='main-container'>
+    <div class='main-column'>
+        <a href="https://www.yogabysophie.com" class="image-logo">
+          <img src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:60/https://www.filepicker.io/api/file/grMpsQgRyCju39l6ohb9" alt="Yoga By Sophie" srcset="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:120/https://www.filepicker.io/api/file/grMpsQgRyCju39l6ohb9 2x" />
+        </a>
+    </div>
+  </div>
+</header>
+
+  <h1 class="page-error" style="padding: 30px;"><center>Xin lỗi, chúng tôi không tìm thấy trang này</center></h1>
+
+<footer class='main-section'>
+  <div class='main-container'>
+    <div class='main-column'>
+      ©
+      Yoga By Sophie
+      2025
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
